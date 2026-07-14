@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a98c6f3a268a87e6",
+            "id": "e91af5b13bc92cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,8 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a98c6f3a268a87e6",
+  "active": "e91af5b13bc92cfb",
   "lastOpenFiles": [
+    "Main.md",
+    "jieji.md",
     "Main.md",
     "Welcome.md"
   ]
