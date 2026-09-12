@@ -11,10 +11,14 @@
             "id": "f781f5c606fe8354",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -203,6 +207,7 @@
   },
   "active": "f781f5c606fe8354",
   "lastOpenFiles": [
+    "Untitled.md",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -214,7 +219,6 @@
     "gemini-scribe",
     "Untitled.base",
     "Untitled.canvas",
-    "Untitled.md",
     "Main.md",
     "jieji.md",
     "Main.md",
