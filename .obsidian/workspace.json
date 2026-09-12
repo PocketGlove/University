@@ -181,11 +181,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 455.34765625
+    "width": 455.34765625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,12 +201,10 @@
       "gemini-scribe:Gemini Scribe: Agent mode": false
     }
   },
-  "active": "aba2d5c91f0045f3",
+  "active": "f781f5c606fe8354",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled.md",
-    "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Scheduled-Tasks",
     "gemini-scribe/Skills",
@@ -213,6 +212,9 @@
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled.md",
     "Main.md",
     "jieji.md",
     "Main.md",
