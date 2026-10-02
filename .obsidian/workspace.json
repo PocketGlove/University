@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "837482d25d91a258",
+        "id": "665fbf1eed625b2b",
         "type": "tabs",
         "children": [
           {
-            "id": "f781f5c606fe8354",
+            "id": "abb640d133b00afa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -59,7 +59,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
@@ -67,9 +67,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Lesezeichen"
             }
           }
         ]
@@ -101,20 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "c5a19567f2da6918",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Rückverweise"
             }
           },
           {
@@ -124,7 +114,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -143,7 +133,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Alle Eigenschaften"
             }
           },
           {
@@ -152,22 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2026-10-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "29a3748ea040ae0b",
-            "type": "leaf",
-            "state": {
-              "type": "gemini-agent-view",
-              "state": {},
-              "icon": "sparkles",
-              "title": "Agenten-Modus"
+              "title": "Gliederung"
             }
           },
           {
@@ -179,13 +160,27 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "319ed8f0439b9cfb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 455.34765625
+    "width": 455.34765625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +191,15 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "gemini-scribe:Gemini Scribe: Agenten-Modus": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29a3748ea040ae0b",
+  "active": "abb640d133b00afa",
   "lastOpenFiles": [
+    "asd.md",
+    "Untitled.base",
+    "Unbenannt.canvas",
+    "2026-10-02.md",
     "Einführung in der Soiziolgie/1. Einheit - 02.10.2026.md",
     "Einführung in der Soiziolgie",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
@@ -213,7 +211,6 @@
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe",
-    "Untitled.base",
     "Untitled.canvas",
     "Main.md",
     "jieji.md",
