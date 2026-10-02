@@ -5,11 +5,11 @@
   "apiKeySecretName": "gemini",
   "chatModelName": "gemini-pro-latest",
   "summaryModelName": "gemini-pro-latest",
-  "completionsModelName": "gemini-flash-lite-latest",
+  "completionsModelName": "gemini-pro-latest",
   "imageModelName": "gemini-2.5-flash-image",
   "ollamaModelName": "",
   "summaryFrontmatterKey": "summary",
-  "userName": "User",
+  "userName": "Pocket",
   "chatHistory": false,
   "historyFolder": "gemini-scribe",
   "debugMode": false,
@@ -46,7 +46,11 @@
   "logToolExecution": true,
   "autoRunCatchUp": false,
   "hooksEnabled": false,
-  "expandedSettingsSections": [],
+  "expandedSettingsSections": [
+    "ui",
+    "automation",
+    "rag"
+  ],
   "remoteModelCache": {
     "models": [
       {

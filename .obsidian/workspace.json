@@ -11,14 +11,10 @@
             "id": "f781f5c606fe8354",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Einführung in der Soiziolgie/1. Einheit - 02.10.2026.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. Einheit - 02.10.2026"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -189,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.34765625,
-    "collapsed": true
+    "width": 455.34765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +200,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f781f5c606fe8354",
+  "active": "29a3748ea040ae0b",
   "lastOpenFiles": [
+    "Einführung in der Soiziolgie/1. Einheit - 02.10.2026.md",
     "Einführung in der Soiziolgie",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
@@ -217,7 +213,6 @@
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe",
-    "Einführung in der Soiziolgie/1. Einheit - 02.10.2026.md",
     "Untitled.base",
     "Untitled.canvas",
     "Main.md",
