@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Einführung in der Soiziolgie/Einheit.md",
+                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Einheit"
+              "title": "Einführung"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Einführung in der Soiziolgie/Einheit.md",
+                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Einführung in der Soiziolgie/Einheit.md",
+                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Einführung in der Soiziolgie/Einheit.md",
+                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Einführung in der Soiziolgie/Einheit.md"
+                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md"
               },
               "icon": "lucide-info",
               "title": "Dateieigenschaften"
@@ -213,8 +213,9 @@
   },
   "active": "abb640d133b00afa",
   "lastOpenFiles": [
+    "Unbenannt.md",
     "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
-    "Einführung in der Soiziolgie/Einheit.md",
+    "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "Forschungs- und Anwendungsfelder der Soziologie",
     "asd.md",
     "Untitled.base",
