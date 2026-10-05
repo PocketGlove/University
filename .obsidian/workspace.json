@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abb640d133b00afa",
+  "active": "88082b3cfe00c00c",
   "lastOpenFiles": [
     "Forschungs- und Anwendungsfelder der Soziologie",
     "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
