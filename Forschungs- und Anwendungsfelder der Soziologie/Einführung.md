@@ -1,5 +1,5 @@
 ---
-Datum:
-  - 05.10.26
+Datum: 2026-10-05
+Vorleser: Michael Parzer
 ---
 

@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "05",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-10-02.md",
+                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,15 +173,27 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Ausgehende Links"
             }
+          },
+          {
+            "id": "c85e17e94de1f1f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md"
+              },
+              "icon": "lucide-info",
+              "title": "Dateieigenschaften"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88082b3cfe00c00c",
+  "active": "abb640d133b00afa",
   "lastOpenFiles": [
     "Forschungs- und Anwendungsfelder der Soziologie",
     "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
