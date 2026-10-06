@@ -1,1 +1,0 @@
-- Er prägt erstmals den Begriff der "Sociologie" als höchste Wissenschaft
