@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
+                "file": "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
+                "file": "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,12 +192,12 @@
               "title": "Dateieigenschaften"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 455.34765625,
-    "collapsed": true
+    "width": 284.28515625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,9 +213,11 @@
   },
   "active": "abb640d133b00afa",
   "lastOpenFiles": [
+    "August Comte.md",
+    "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
+    "Drei-Stadien-Gesetz.md",
     "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
     "Unbenannt.md",
-    "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "Forschungs- und Anwendungsfelder der Soziologie",
     "asd.md",
     "Untitled.base",
