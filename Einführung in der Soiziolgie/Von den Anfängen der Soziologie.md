@@ -8,7 +8,12 @@ Vorleser: Anna Wanka
 ## [[August Comte]] - Der Vater der Soziologie
 - Er prägt erstmals den Begriff der "Sociologie" als höchste Wissenschaft
 ### [[Drei-Stadien-Gesetz]]
- - Wissenschaft und Gesellschaft entwickeln sie sich im drei Stadien
+ - Die Gesellschaft und die Wissenschaften entwickeln sie sich im drei Stadien
 #### Theologisch
- 
+- Alle Fragen der Gesellschaft über die Welt werden von den Menschen an Gott gestellt und von Gott beantwortet und erklärt. Die Wahrheit ist das Wort der Götter.
+#### Metaphysisch
+
+#### Positiv
+
+
  
