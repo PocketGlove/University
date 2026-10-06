@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.19921875
+    "width": 427.625
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
+                "file": "Unbenannt 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,16 +212,18 @@
   },
   "active": "88082b3cfe00c00c",
   "lastOpenFiles": [
+    "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
+    "Unbenannt 1.md",
+    "Unbenannt.md",
+    "tq e.md",
     "Grundlagen wissenschaftlichen Arbeitens in der Soziologie",
     "Personen/August Comte.md",
-    "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "Konzepte/Drei-Stadien-Gesetz.md",
     "Konzepte",
     "Personen/Harriet Martineau.md",
     "Personen",
     "Personen/Herbert Spencer.md",
     "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
-    "Unbenannt.md",
     "Forschungs- und Anwendungsfelder der Soziologie",
     "asd.md",
     "Untitled.base",
@@ -235,7 +236,6 @@
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Scheduled-Tasks",
     "gemini-scribe/Skills",
-    "gemini-scribe/Prompts",
     "Untitled.canvas",
     "Main.md",
     "jieji.md",
