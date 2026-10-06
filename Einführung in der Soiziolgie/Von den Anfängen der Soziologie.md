@@ -17,4 +17,6 @@ Vorleser: Anna Wanka
 - Alle Fragen der Gesellschaft über die Welt werden durch Beobachtung, empyrische Forschungen und Daten beantwortet. Es gibt keine höcheren Wesen.
 # Soziologie als Naturwissenschaft
 ## [[Herbert Spencer]]
-- 
+- Er prägte den Begriff "survival of the fittest"
+### Gesellschaft wie ein Körper
+- Familie, Wirtschaft, Bildung, Regierung sollen zusammen arbetien, so dass die Gesellschaft überlebt. Wenn ein Teil ist nicht effektiv, alle andere werden affektiert. Sie brauchen einander, aber sie sind unterschiedlich wichtig.
