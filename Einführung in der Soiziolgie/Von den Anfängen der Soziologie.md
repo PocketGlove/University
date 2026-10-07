@@ -28,5 +28,6 @@ Vorleser: Anna Wanka
 - Familie, Wirtschaft, Bildung, Regierung sollen zusammen arbeiten, so dass die Gesellschaft überlebt. Wenn ein Teil ist nicht effektiv, alle andere werden affektiert. Sie brauchen einander, aber sie sind unterschiedlich wichtig.
 # Soziologie zur Erklärung sozialer Phänomene
 ## [[Emile Durkheim]]
-
+- Die Gesellschaft ist mehr als die Summe ihrer Teile und sie ist eine Realität eigener Art
+### [["Der Selbstmord"]]
 
