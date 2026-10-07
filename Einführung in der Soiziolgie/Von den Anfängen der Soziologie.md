@@ -26,4 +26,7 @@ Vorleser: Anna Wanka
 
 ### Gesellschaft wie ein Körper
 - Familie, Wirtschaft, Bildung, Regierung sollen zusammen arbeiten, so dass die Gesellschaft überlebt. Wenn ein Teil ist nicht effektiv, alle andere werden affektiert. Sie brauchen einander, aber sie sind unterschiedlich wichtig.
-# Soziologie zur Erklärung sozialer Ungleichheiten
+# Soziologie zur Erklärung sozialer Phänomene
+## [[Emile Durkheim]]
+
+
