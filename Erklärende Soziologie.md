@@ -1,0 +1,5 @@
+- [[Emile Durkheim]]
+- Suche nach Kausalität, Gesetzmäßigkeiten, Regeln
+- Methode:
+	- statistische Zusammenhänge, quantitativ
+- Warum passiert das?

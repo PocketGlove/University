@@ -53,7 +53,17 @@ Vorleser: Anna Wanka
 - Im Vergleich zu Durkheim, er interessiert sich für die Menschen, nicht nur für die Statistiken
 - Herrschaft als institutionalisierte, dauerhafte, legitimierte Form von Macht (Legitimitätsglauben)
 	- Legale Herrschaft
-		- Die Person bevorzugt die Regeln zu folgen, statt die Konsequenzen zu ziehen
+		- Die Person bevorzugt die Regeln zu folgen, statt die Konsequenzen zu ziehen.
 	- Traditionale Herrschaft
-		- Wir machen es so, weil es immer schon so war
+		- Wir machen es so, weil es immer schon so war.
 	- Charismatische Herrschaft
+		- Jemander der Macht hat, wegen seiner Persönlichkeit.
+# Verstehende und Erklärende Soziologie
+## [[Verstehende Soziologie]]
+## [[Erklärende Soziologie]]
+- [[Emile Durkheim]]
+- Suche nach Kausalität, Gesetzmäßigkeiten, Regeln
+- Methode:
+	- statistische Zusammenhänge, quantitativ
+- Warum passiert das?
+
