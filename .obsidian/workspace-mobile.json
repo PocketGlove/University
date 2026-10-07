@@ -11,10 +11,14 @@
             "id": "efc3ea9e59f63ac0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Von den Anfängen der Soziologie"
             }
           }
         ]
@@ -164,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a2a3097a25ed966",
+  "active": "efc3ea9e59f63ac0",
   "lastOpenFiles": [
     "Personen/Max Weber.md",
     "Personen/Herbert Spencer.md",
