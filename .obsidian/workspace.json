@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "665fbf1eed625b2b",
+        "id": "ff1d290ad8215626",
         "type": "tabs",
         "children": [
           {
-            "id": "2a1a173f99faade5",
+            "id": "3eff706e64639c8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.625
+    "width": 427.58984375
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -207,8 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a1a173f99faade5",
+  "active": "3eff706e64639c8e",
   "lastOpenFiles": [
+    "Wissenschaftstheorie und -geschichte.md",
+    "Wissenschaftstheorie und -geschichte",
+    "Aktuelle gesellschaftliche Themen und Fragestellungen",
+    "Grundlagen sozialwissenschaftlicher Methodologie",
     "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
     "Personen/Emile Durkheim.md",
@@ -223,7 +227,6 @@
     "Literatur/\"Der Selbstmord\" (1897).md",
     "Literatur",
     "\"Der Selbstmord\".md",
-    "Unbenannt.md",
     "abe tebe.md",
     "Unbenannt 1.md",
     "tq e.md",
@@ -238,14 +241,10 @@
     "2026-10-02.md",
     "Einführung in der Soiziolgie/1. Einheit - 02.10.2026.md",
     "Einführung in der Soiziolgie",
-    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Scheduled-Tasks",
     "Untitled.canvas",
     "Main.md",
     "jieji.md",
-    "Main.md",
-    "Welcome.md"
+    "Main.md"
   ]
 }
