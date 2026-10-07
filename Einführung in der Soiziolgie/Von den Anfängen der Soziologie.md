@@ -38,3 +38,4 @@ Vorleser: Anna Wanka
 - Suizid als "soziale Tatsache", die nicht allein aus individuellen psychologischen Faktoren erklärt werden kann.
 #### Methode: 
 - Statistische Datenanalyse zu Suizidraten aus mehreren europäischen Länder
+#### Arten von Suizid
