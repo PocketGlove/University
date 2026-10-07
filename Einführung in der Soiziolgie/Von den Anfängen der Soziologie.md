@@ -39,3 +39,11 @@ Vorleser: Anna Wanka
 #### Methode: 
 - Statistische Datenanalyse zu Suizidraten aus mehreren europäischen Länder
 #### Arten von Suizid
+- Egoistischer
+	- mangelnde Integration (Unverheirateten/Kinderlosen)
+- Altruistischer 
+	- zu hohe Integration, Märtyrer
+- Anomischer
+	- normative Orientierungslosigkeit, steigende Suizidrate bei Krisen/Wandel
+- Fatalistischer
+	- soziale Kontrolle, z.B. in Haftanstalten
