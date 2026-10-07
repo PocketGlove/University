@@ -51,3 +51,9 @@ Vorleser: Anna Wanka
 
 ## [[Max Weber]]
 - Im Vergleich zu Durkheim, er interessiert sich für die Menschen, nicht nur für die Statistiken
+- Herrschaft als institutionalisierte, dauerhafte, legitimierte Form von Macht (Legitimitätsglauben)
+	- Legale Herrschaft
+		- Die Person bevorzugt die Regeln zu folgen, statt die Konsequenzen zu ziehen
+	- Traditionale Herrschaft
+		- Wir machen es so, weil es immer schon so war
+	- Charismatische Herrschaft
