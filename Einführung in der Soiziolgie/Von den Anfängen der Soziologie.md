@@ -47,3 +47,7 @@ Vorleser: Anna Wanka
 	- normative Orientierungslosigkeit, steigende Suizidrate bei Krisen/Wandel
 - Fatalistischer
 	- soziale Kontrolle, z.B. in Haftanstalten
+
+
+## [[Max Weber]]
+- Im Vergleich zu Durkheim, er interessiert sich für die Menschen, nicht nur für die Statistiken
