@@ -1,0 +1,3 @@
+- Übersetzt die Werke von [[August Comte]] in Englisch
+- Eine der ersten Frauenrecht Aktivistinen
+- Kritisiert die Gesellschaft in Amerika, weil sie auf Unglichkeiten aufgebaut ist und dass Frauen wenigere Chance haben. 

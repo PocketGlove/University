@@ -60,10 +60,15 @@ Vorleser: Anna Wanka
 		- Jemander der Macht hat, wegen seiner Persönlichkeit.
 # Verstehende und Erklärende Soziologie
 ## [[Verstehende Soziologie]]
+- [[Max Weber]]
+- Suche nach individuell-subjektiven Sinnzuschreibungen
+- Methode:
+	- [[Qualitativ]]
+- Wieso tust du das?
 ## [[Erklärende Soziologie]]
 - [[Emile Durkheim]]
 - Suche nach Kausalität, Gesetzmäßigkeiten, Regeln
 - Methode:
-	- statistische Zusammenhänge, quantitativ
+	- statistische Zusammenhänge, [[Quantitativ]]
 - Warum passiert das?
 
