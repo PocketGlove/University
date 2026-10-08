@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
+                "file": "Literatur/Der Selbstmord (1897).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Einführung"
+              "title": "Der Selbstmord (1897)"
             }
           }
         ]
@@ -211,14 +211,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eff706e64639c8e",
+  "active": "88082b3cfe00c00c",
   "lastOpenFiles": [
+    "Literatur",
+    "Unbenannt.md",
+    "Literatur/Der Selbstmord (1897).md",
+    "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
+    "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
     "Wissenschaftstheorie und -geschichte.md",
     "Wissenschaftstheorie und -geschichte",
     "Aktuelle gesellschaftliche Themen und Fragestellungen",
     "Grundlagen sozialwissenschaftlicher Methodologie",
-    "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
-    "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
     "Personen/Emile Durkheim.md",
     "Konzepte/Qualitativ.md",
     "Konzepte/Quantitativ.md",
@@ -247,8 +250,6 @@
     "Einführung in der Soiziolgie",
     "gemini-scribe/Prompts/example-expert.md",
     "Untitled.canvas",
-    "Main.md",
-    "jieji.md",
     "Main.md"
   ]
 }

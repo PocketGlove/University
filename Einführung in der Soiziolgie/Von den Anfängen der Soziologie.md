@@ -29,7 +29,7 @@ Vorleser: Anna Wanka
 # Soziologie zur Erklärung sozialer Phänomene
 ## [[Emile Durkheim]]
 - Die Gesellschaft ist mehr als die Summe ihrer Teile und sie ist eine Realität eigener Art
-### [["Der Selbstmord" (1897)]]
+### [[Der Selbstmord (1897)]]
 #### Theoretische Frage:
 - Wie hält der Gesellschaft zusammen? Was ist die Rolle der Gesellschaft für scheinbar individuelles Verhalten?
 #### Empirische Frage:
