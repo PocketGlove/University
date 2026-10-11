@@ -16,5 +16,12 @@ Vorleser: Ana Mijic
 - Im täglichen Lebensvollzug stützt sich das menschliche Handeln auf das Alltagsbewusstsein. Das menschliche Bewusstsein fungiert dabei als ein **„Doppelprozessor“**: Es schaltet je nach Aufmerksamkeitsbedarf und Situationsanforderung zwischen Vereinfachung (Routinen, Egozentrik) und Differenzierung (Reflexion) um.
 ### Alltagswissen
 
-#### Egozentrik
-- 
+#### Egozentrik & Perspektivität
+- Das Alltagswissen nimmt die Welt konsequent vom Standpunkt des eigenen Subjekts und dessen momentaner Befindlichkeit aus wahr. Die Wirklichkeit wird selektiv auf den Status quo der eigenen Identität zugeschnitten.
+#### **Routinen als „künstliche Instinkte“**
+- Zur Einsparung knapper kognitiver Ressourcen entwickelt das Alltagsbewusstsein Handlungsmuster und Interpretationsschemata. Diese praxiserprobten Routinen wirken als flexibler Instinktersatz und ermöglichen entlastetes, halbautomatisches Handeln ohne ständige Orientierungsleistung.
+#### **Handlungszwang** 
+- Der Alltag ist durch den Zwang zur unmittelbaren Entscheidung und Aufrechterhaltung der Handlungsfähigkeit charakterisiert. Dieser pragmatische Primat verhindert ein tiefgehendes, zeitraubendes Hinterfragen der Situation.
+#### **Das Scheitern von Routinen**
+- Sobald gewohnte Handlungsabläufe blockiert sind (z. B. wenn das Auto nicht anspringt), erfährt der Routinebetrieb eine Erschütterung. In diesem Umschaltmoment schaltet der „Doppelprozessor“ von automatisierter Ausführung auf gezielte Reflexion um: Der unterbrochene Handlungsablauf wird selbst zum Gegenstand intentionaler Auseinandersetzung.
+### Reflexion
