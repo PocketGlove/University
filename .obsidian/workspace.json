@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -147,8 +147,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -215,8 +215,12 @@
   "lastOpenFiles": [
     "Soziale Wirklichkeit.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
-    "Literatur/Der Selbstmord (1897).md",
     "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
+    "Konzepte/Drei-Stadien-Gesetz.md",
+    "Personen/August Comte.md",
+    "Wissenschaftliches Wissen.md",
+    "Alltagswissen und Reflexion.md",
+    "Literatur/Der Selbstmord (1897).md",
     "Literatur",
     "Unbenannt.md",
     "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
@@ -231,7 +235,6 @@
     "Konzepte/Verstehende Soziologie.md",
     "Konzepte/Erklärende Soziologie.md",
     "Personen/Herbert Spencer.md",
-    "Personen/August Comte.md",
     "Personen/Harriet Martineau.md",
     "Literatur/\"Der Selbstmord\" (1897).md",
     "Literatur",
@@ -240,7 +243,6 @@
     "Unbenannt 1.md",
     "tq e.md",
     "Grundlagen wissenschaftlichen Arbeitens in der Soziologie",
-    "Konzepte/Drei-Stadien-Gesetz.md",
     "Konzepte",
     "Personen",
     "Forschungs- und Anwendungsfelder der Soziologie",
@@ -248,8 +250,6 @@
     "Untitled.base",
     "Unbenannt.canvas",
     "2026-10-02.md",
-    "Einführung in der Soiziolgie/1. Einheit - 02.10.2026.md",
-    "gemini-scribe/Prompts/example-expert.md",
     "Untitled.canvas"
   ]
 }
