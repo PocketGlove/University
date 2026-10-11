@@ -25,3 +25,17 @@ Vorleser: Ana Mijic
 #### **Das Scheitern von Routinen**
 - Sobald gewohnte Handlungsabläufe blockiert sind (z. B. wenn das Auto nicht anspringt), erfährt der Routinebetrieb eine Erschütterung. In diesem Umschaltmoment schaltet der „Doppelprozessor“ von automatisierter Ausführung auf gezielte Reflexion um: Der unterbrochene Handlungsablauf wird selbst zum Gegenstand intentionaler Auseinandersetzung.
 ### Reflexion
+#### **Definition & Umschaltmoment**
+- Reflexion ist die intentionale, zielgerichtete Zuwendung des Bewusstseins auf einen Gegenstand mit dem Anspruch auf tiefere, objektivierte Erkenntnis.
+#### **Auslöser**
+- Der Moduswechsel wird erzwungen, wenn Routinen scheitern (z. B. wenn das Auto plötzlich nicht mehr anspringt), wenn neuartige Probleme auftreten oder ein spezifisches Erkenntnisinteresse geweckt wird.
+#### **Merkmale & Funktion** 
+- Das vorher unhinterfragt Selbstverständliche wird fragwürdig. Es entsteht eine kognitive Distanz zum Geschehen, und eine gezielte Ursachen- und Lösungssuche setzt ein. Die volle Aufmerksamkeit richtet sich auf das Problem; Nebenaktivitäten treten in den Hintergrund.
+#### **Grenzen der alltäglichen Reflexion**
+- Im Alltag bleibt Reflexion stets situativ gebunden, zeitlich begrenzt und improvisiert. Der anhaltende Handlungsdruck zwingt zur raschen Rückkehr ins Tun. Zudem verharren alltägliche Reflexionen oft in der unvollständigen Überwindung der Egozentrik.
+#### **Sondersituationen** 
+- Individuen können ihren Reflexionshorizont erweitern, indem sie gezielt „Sondersituationen“ schaffen – also Phasen, die temporär vom akuten Handlungs- und Entscheidungszwang freigestellt sind (z. B. Sabbaticals, Klausuren).
+
+## Wissenschaftliches Wissen
+### **Definition & Institutionalisierung**
+- Wissenschaft ist die dauerhafte, soziale und arbeitsteilige Institutionalisierung von Reflexion. Sie hebt den alltäglichen Handlungszwang gesellschaftlich auf und entkoppelt das Denken von situativen und individuellen Beschränkungen.
