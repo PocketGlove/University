@@ -1,3 +1,7 @@
 {
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "gemini-code-1791734910068",
+    "gemini-code-1791735062329"
+  ]
 }
