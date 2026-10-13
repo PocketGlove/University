@@ -1,9 +1,17 @@
 {
 	"nodes":[
-		{"id":"91de99811c112911","x":-440,"y":-140,"width":187,"height":246,"color":"1","type":"text","text":"Subjekt\n- Vorwissen\n- Erfahrungen\n- Begriffe\n- Kategorien\n- Interessen\n- Perspektive"},
-		{"id":"253ad71c9c6aaa99","x":-200,"y":-140,"width":280,"height":246,"color":"6","type":"text","text":"Erkentniss Prozess\n###### Wahrnehmen\n- selektiv\n- perspektiv\n###### Auswählen und Einordnen\n- Was fällt auf?\n- Was wird ausgeblendet?\n###### Ordnen und Interpretieren\n- Begriffen\n- Kategorien\n- Vorwissen\n- Erfahrungen"}
+		{"id":"f5413277efc029eb","type":"text","text":"Erkentniss Prozess\n","x":-140,"y":-140,"width":284,"height":50,"color":"6"},
+		{"id":"a3a7c673f512c18c","type":"text","text":"###### Wahrnehmen\n- selektiv\n- perspektiv","x":-140,"y":-60,"width":284,"height":190,"color":"6"},
+		{"id":"d50f8355a1e0944b","x":-140,"y":160,"width":284,"height":190,"color":"6","type":"text","text":"###### Auswählen und Einordnen\n- Was fällt auf?\n- Was wird ausgeblendet?"},
+		{"id":"fba8c0212ef574dc","x":-140,"y":380,"width":284,"height":190,"color":"6","type":"text","text":"###### Ordnen und Interpretieren\n- Begriffen\n- Kategorien\n- Vorwissen\n- Erfahrungen"},
+		{"id":"91de99811c112911","type":"text","text":"Subjekt\n- Vorwissen\n- Erfahrungen\n- Begriffe\n- Kategorien\n- Interessen\n- Perspektive","x":-460,"y":-140,"width":250,"height":270,"color":"1"},
+		{"id":"a4246993cb1a8056","type":"text","text":"Objekt\n- Dinge\n- Ereignisse\n- soziale Phänomene\n- Menschen\n- Situationen\n- Ausschnitt der Wirklichkeit","x":200,"y":-140,"width":250,"height":270,"color":"5"}
 	],
 	"edges":[
-		{"id":"952c14fb5dabbef6","fromNode":"91de99811c112911","fromSide":"right","toNode":"253ad71c9c6aaa99","toSide":"left"}
+		{"id":"de6a481f4fa4245f","fromNode":"a3a7c673f512c18c","fromSide":"bottom","toNode":"d50f8355a1e0944b","toSide":"top"},
+		{"id":"396498c6185dbd67","fromNode":"d50f8355a1e0944b","fromSide":"bottom","toNode":"fba8c0212ef574dc","toSide":"top"},
+		{"id":"daab11a8a0f1761e","fromNode":"91de99811c112911","fromSide":"right","toNode":"f5413277efc029eb","toSide":"left","fromEnd":"arrow"},
+		{"id":"0d167f3d94a2e510","fromNode":"f5413277efc029eb","fromSide":"right","toNode":"a4246993cb1a8056","toSide":"left","fromEnd":"arrow"},
+		{"id":"bb4edd7cab8ce73f","fromNode":"f5413277efc029eb","fromSide":"bottom","toNode":"a3a7c673f512c18c","toSide":"top"}
 	]
 }
