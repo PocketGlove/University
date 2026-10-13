@@ -1,2 +1,4 @@
 - Er prägt erstmals den Begriff der "Sociologie" als höchste Wissenschaft
-- [[Drei-Stadien-Gesetz]]
+### [[Drei-Stadien-Gesetz]]
+![[Drei-Stadien-Gesetz]]
+

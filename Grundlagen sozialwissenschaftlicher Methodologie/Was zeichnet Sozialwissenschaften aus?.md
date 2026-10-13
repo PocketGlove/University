@@ -8,9 +8,6 @@ Vorleser: Ana Mijic
 
 ## [[Alltagswissen und Reflexion]]
 ![[Alltagswissen und Reflexion]]
-
-
-
 ## [[Wissenschaftliches Wissen]]
 ![[Wissenschaftliches Wissen]]
 ## Das Subjekt-Objekt Problem
