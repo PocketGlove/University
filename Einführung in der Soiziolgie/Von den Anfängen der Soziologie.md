@@ -24,9 +24,5 @@ Vorleser: Anna Wanka
 ![[Verstehende Soziologie]]
 
 ## [[Erklärende Soziologie]]
-- [[Emile Durkheim]]
-- Suche nach Kausalität, Gesetzmäßigkeiten, Regeln
-- Methode:
-	- statistische Zusammenhänge, [[Quantitativ]]
-- Warum passiert das?
+![[Erklärende Soziologie]]
 
