@@ -11,14 +11,17 @@
             "id": "3eff706e64639c8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
-                "mode": "source",
-                "source": false
+                "file": "Unbenannt.canvas",
+                "viewState": {
+                  "x": -41.20488855425854,
+                  "y": 181.20754913127212,
+                  "zoom": 0.47709537142230957
+                }
               },
-              "icon": "lucide-file",
-              "title": "Was zeichnet Sozialwissenschaften aus?"
+              "icon": "lucide-layout-dashboard",
+              "title": "Unbenannt"
             }
           }
         ]
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
+                "file": "Unbenannt.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,8 +215,9 @@
   },
   "active": "3eff706e64639c8e",
   "lastOpenFiles": [
-    "Wissenschaftliches Wissen.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
+    "Unbenannt.canvas",
+    "Wissenschaftliches Wissen.md",
     "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "Literatur/Der Selbstmord (1897).md",
     "Konzepte/Erklärende Soziologie.md",
@@ -246,9 +250,7 @@
     "Konzepte",
     "Personen",
     "Forschungs- und Anwendungsfelder der Soziologie",
-    "asd.md",
     "Untitled.base",
-    "Unbenannt.canvas",
     "Untitled.canvas"
   ]
 }

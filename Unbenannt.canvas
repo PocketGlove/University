@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"91de99811c112911","x":-440,"y":-140,"width":187,"height":246,"color":"1","type":"text","text":"Subjekt\n- Vorwissen\n- Erfahrungen\n- Begriffe\n- Kategorien\n- Interessen\n- Perspektive"},
+		{"id":"253ad71c9c6aaa99","x":-200,"y":-140,"width":280,"height":246,"color":"6","type":"text","text":"Erkentniss Prozess\n###### Wahrnehmen\n- selektiv\n- perspektiv\n###### Auswählen und Einordnen\n- Was fällt auf?\n- Was wird ausgeblendet?\n###### Ordnen und Interpretieren\n- Begriffen\n- Kategorien\n- Vorwissen\n- Erfahrungen"}
+	],
+	"edges":[
+		{"id":"952c14fb5dabbef6","fromNode":"91de99811c112911","fromSide":"right","toNode":"253ad71c9c6aaa99","toSide":"left"}
+	]
+}
