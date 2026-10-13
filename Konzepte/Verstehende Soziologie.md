@@ -1,5 +1,5 @@
 - [[Max Weber]]
 - Suche nach individuell-subjektiven Sinnzuschreibungen
 - Methode:
-	- [[Qualitativ]]
+	- [[Qualitativ]]![[Qualitativ]]
 - Wieso tust du das?
