@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
-                "mode": "source",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Von den Anfängen der Soziologie"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8c9b7cc9aa892f4f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2487d4ff0cb3fa6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Konzepte/Erklärende Soziologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erklärende Soziologie"
+              "title": "Was zeichnet Sozialwissenschaften aus?"
             }
           }
         ]
@@ -152,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,8 +212,10 @@
   },
   "active": "3eff706e64639c8e",
   "lastOpenFiles": [
-    "Konzepte/Erklärende Soziologie.md",
     "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
+    "Literatur/Der Selbstmord (1897).md",
+    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
+    "Konzepte/Erklärende Soziologie.md",
     "Konzepte/Verstehende Soziologie.md",
     "Personen/Max Weber.md",
     "Personen/Emile Durkheim.md",
@@ -241,12 +223,10 @@
     "Personen/Harriet Martineau.md",
     "Konzepte/Drei-Stadien-Gesetz.md",
     "Personen/August Comte.md",
-    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
     "Wissenschaftliches Wissen.md",
     "Alltagswissen und Reflexion.md",
     "Forschungs- und Anwendungsfelder der Soziologie/Bevölkerung.md",
     "Soziale Wirklichkeit.md",
-    "Literatur/Der Selbstmord (1897).md",
     "Literatur",
     "Unbenannt.md",
     "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
