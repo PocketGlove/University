@@ -1,9 +1,22 @@
 {
 	"nodes":[
-		{"id":"f5413277efc029eb","type":"text","text":"Erkentniss Prozess\n","x":-140,"y":-140,"width":284,"height":50,"color":"6"},
+		{
+			"id":"f5413277efc029eb",
+			"type":"text",
+			"text":"Erkentniss Prozess\n",
+			"styleAttributes":{
+				"textAlign":"center",
+				"border":null
+			},
+			"x":-140,
+			"y":-140,
+			"width":284,
+			"height":50,
+			"color":"6"
+		},
 		{"id":"a3a7c673f512c18c","type":"text","text":"###### Wahrnehmen\n- selektiv\n- perspektiv","x":-140,"y":-60,"width":284,"height":190,"color":"6"},
-		{"id":"d50f8355a1e0944b","x":-140,"y":160,"width":284,"height":190,"color":"6","type":"text","text":"###### Auswählen und Einordnen\n- Was fällt auf?\n- Was wird ausgeblendet?"},
-		{"id":"fba8c0212ef574dc","x":-140,"y":380,"width":284,"height":190,"color":"6","type":"text","text":"###### Ordnen und Interpretieren\n- Begriffen\n- Kategorien\n- Vorwissen\n- Erfahrungen"},
+		{"id":"d50f8355a1e0944b","type":"text","text":"###### Auswählen und Einordnen\n- Was fällt auf?\n- Was wird ausgeblendet?","x":-140,"y":160,"width":284,"height":190,"color":"6"},
+		{"id":"fba8c0212ef574dc","type":"text","text":"###### Ordnen und Interpretieren\n- Begriffen\n- Kategorien\n- Vorwissen\n- Erfahrungen","x":-140,"y":380,"width":284,"height":190,"color":"6"},
 		{"id":"91de99811c112911","type":"text","text":"Subjekt\n- Vorwissen\n- Erfahrungen\n- Begriffe\n- Kategorien\n- Interessen\n- Perspektive","x":-460,"y":-140,"width":250,"height":270,"color":"1"},
 		{"id":"a4246993cb1a8056","type":"text","text":"Objekt\n- Dinge\n- Ereignisse\n- soziale Phänomene\n- Menschen\n- Situationen\n- Ausschnitt der Wirklichkeit","x":200,"y":-140,"width":250,"height":270,"color":"5"}
 	],
@@ -13,5 +26,9 @@
 		{"id":"daab11a8a0f1761e","fromNode":"91de99811c112911","fromSide":"right","toNode":"f5413277efc029eb","toSide":"left","fromEnd":"arrow"},
 		{"id":"0d167f3d94a2e510","fromNode":"f5413277efc029eb","fromSide":"right","toNode":"a4246993cb1a8056","toSide":"left","fromEnd":"arrow"},
 		{"id":"bb4edd7cab8ce73f","fromNode":"f5413277efc029eb","fromSide":"bottom","toNode":"a3a7c673f512c18c","toSide":"top"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }
