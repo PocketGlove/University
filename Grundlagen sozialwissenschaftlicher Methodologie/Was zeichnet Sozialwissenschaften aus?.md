@@ -11,3 +11,5 @@ Vorleser: Ana Mijic
 ## [[Wissenschaftliches Wissen]]
 ![[Wissenschaftliches Wissen]]
 ## Das Subjekt-Objekt Problem
+![[Das Subjekt-Objekt Problem.canvas|575]]
+
