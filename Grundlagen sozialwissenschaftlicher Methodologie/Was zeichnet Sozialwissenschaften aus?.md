@@ -22,5 +22,6 @@ Vorleser: Ana Mijic
 ## [[August Comte]] 
 - [[Positivismus]]![[Positivismus]]
 ## [[Emile Durkheim]] Regeln für die Soziologie
-![[Emile Durkheim#Regeln für die Soziologie]]
-![[Emile Durkheim#]]
+![[Emile Durkheim#Methodologischer Holismus]]
+
+![[Emile Durkheim#Sozialer Tatbestand]]
