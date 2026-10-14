@@ -23,4 +23,4 @@ Vorleser: Ana Mijic
 - [[Positivismus]]![[Positivismus]]
 ## [[Emile Durkheim]] Regeln für die Soziologie
 ![[Emile Durkheim#Regeln für die Soziologie]]
-
+![[Emile Durkheim#]]
