@@ -16,7 +16,6 @@ Vorleser: Anna Wanka
 ## [[Emile Durkheim]]
 ![[Emile Durkheim]]
 
-
 ## [[Max Weber]]
 ![[Max Weber]]
 # Verstehende und Erklärende Soziologie
