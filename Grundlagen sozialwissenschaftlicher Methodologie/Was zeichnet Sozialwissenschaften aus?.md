@@ -17,5 +17,8 @@ Vorleser: Ana Mijic
 ## [[Differenzierung der wissenschaftstheoretischen Ebenen]]
 ![[Differenzierung der wissenschaftstheoretischen Ebenen]]
 # Kann man Gesellschaft wissenschaftlich untersuchen?
-## [[Herbert Spencer]] 
-- [[Sozialdarwinismus]]
+## [[Herbert Spencer]]
+- [[Sozialdarwinismus]]![[Sozialdarwinismus]]
+## [[August Comte]] 
+- [[Positivismus]]![[Positivismus]]
+## [[Emile Durkheim]] Fundamentalkritik an Comte und Spencer

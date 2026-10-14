@@ -1,0 +1,1 @@
+Definierte Gesellschaft primär über das Prinzip der Kooperation und unterschied zwischen spontaner Kooperation (industrielle Gesellschaften) und planmäßiger Kooperation (militärische Gesellschaften).

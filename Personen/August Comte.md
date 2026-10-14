@@ -1,7 +1,6 @@
 - Er prägt erstmals den Begriff der "Sociologie" als höchste Wissenschaft
+- [[Positivismus]]![[Positivismus]]
 ### [[Drei-Stadien-Gesetz]]
 
-^731eef
-
-![[Drei-Stadien-Gesetz]] ^df9587
+![[Drei-Stadien-Gesetz]] 
 

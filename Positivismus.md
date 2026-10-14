@@ -1,0 +1,1 @@
+[[August Comte]] postulierte ein [[Drei-Stadien-Gesetz]] des kontinuierlichen Fortschritts der Menschheit hin zu einer immer vollkommeneren Verwirklichung der menschlichen Natur.
