@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personen/Emile Durkheim.md",
+                "file": "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emile Durkheim"
+              "title": "Von den Anfängen der Soziologie"
             }
           }
         ]
@@ -51,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "emile",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -102,7 +102,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "32f282fd2c4ad388",
@@ -170,8 +170,19 @@
   },
   "active": "efc3ea9e59f63ac0",
   "lastOpenFiles": [
-    "Konzepte/Erklärende Soziologie.md",
+    "Konzepte/Sozialer Tatbestand.md",
+    "Konzepte/Das Subjekt-Objekt Problem.canvas",
+    "Konzepte/Vermittlungsprozess der Erkenntnis.md",
+    "Konzepte/Soziale Wirklichkeit.md",
+    "Konzepte/Sozialdarwinismus.md",
+    "Konzepte/Positivismus.md",
+    "Konzepte/Differenzierung der wissenschaftstheoretischen Ebenen.md",
+    "Konzepte/Alltagswissen und Reflexion.md",
+    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
+    "Konzepte/Methodologischer Holismus.md",
     "Personen/Emile Durkheim.md",
+    "Grundlagen wissenschaftlichen Arbeitens in der Soziologie",
+    "Konzepte/Erklärende Soziologie.md",
     "Literatur/Der Selbstmord (1897).md",
     "Das Subjekt-Objekt Problem.canvas",
     "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
@@ -188,17 +199,8 @@
     "/Vermittlungsprozess der Erkenntnis.md",
     "/Sozialer Tatbestand.md",
     "/Soziale Wirklichkeit.md",
-    "/Sozialdarwinismus.md",
-    "/Positivismus.md",
-    "/Personen/Herbert Spencer.md",
-    "/Personen/Emile Durkheim.md",
-    "/Personen/August Comte.md",
     "/Personen",
-    "Methodologischer Holismus.md",
-    "/Literatur/Der Selbstmord (1897).md",
     "/Literatur",
-    "/Konzepte/Verstehende Soziologie.md",
-    "/Konzepte/Erklärende Soziologie.md",
     "/Konzepte",
     "/Einführung in der Soiziolgie",
     "/Das Subjekt-Objekt Problem.canvas",
@@ -206,7 +208,6 @@
     "/Grundlagen sozialwissenschaftlicher Methodologie",
     "/Forschungs- und Anwendungsfelder der Soziologie",
     "Personen",
-    "Literatur",
-    "Konzepte"
+    "Literatur"
   ]
 }
