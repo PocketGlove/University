@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Was zeichnet Sozialwissenschaften aus.md",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
                 "mode": "source",
                 "source": false
               },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Was zeichnet Sozialwissenschaften aus.md",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Was zeichnet Sozialwissenschaften aus.md",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,10 +237,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a14253f659f21fd",
+  "active": "88082b3cfe00c00c",
   "lastOpenFiles": [
+    "Grundlagen sozialwissenschaftlicher Methodologie",
+    "Wissenschaftstheorie und -geschichte",
+    "Unbenannt",
+    "Grundlagen wissenschaftlichen Arbeitens in der Soziologie",
     "Konzepte/Alltagswissen und Reflexion.md",
-    "Was zeichnet Sozialwissenschaften aus.md",
+    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
     "Grundlagen wissenschaftlichen Arbeitens in der Soziologie/Was zeichnet Sozialwissenschaften aus?.md",
     "Personen/Emile Durkheim.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
@@ -266,16 +270,12 @@
     "Konzepte/Soziale Wirklichkeit.md",
     "Literatur",
     "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
-    "Wissenschaftstheorie und -geschichte.md",
     "Wissenschaftstheorie und -geschichte",
     "Aktuelle gesellschaftliche Themen und Fragestellungen",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "Literatur",
     "Grundlagen wissenschaftlichen Arbeitens in der Soziologie",
     "Konzepte",
-    "Personen",
-    "Forschungs- und Anwendungsfelder der Soziologie",
-    "Untitled.base",
     "Untitled.canvas"
   ]
 }
