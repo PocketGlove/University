@@ -25,14 +25,15 @@
             "id": "812b2a6976029b6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
+                "bFile": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
+                "aRef": "944ad132f270099b73a9f6af911985ce06ea9602^",
+                "bRef": "944ad132f270099b73a9f6af911985ce06ea9602"
               },
-              "icon": "lucide-file",
-              "title": "Was zeichnet Sozialwissenschaften aus?"
+              "icon": "diff",
+              "title": "Diff: Was zeichnet Sozialwissenschaften aus? (944ad13)"
             }
           },
           {
@@ -170,7 +171,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,8 +218,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -262,8 +261,19 @@
               "icon": "lucide-archive",
               "title": "Alle Eigenschaften"
             }
+          },
+          {
+            "id": "8a0c798154125ac6",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -281,12 +291,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "812b2a6976029b6e",
+  "active": "8a0c798154125ac6",
   "lastOpenFiles": [
     "Personen/Emile Durkheim.md",
+    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
     "Methodologischer Holismus.md",
     "Sozialer Tatbestand.md",
-    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
     "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "Konzepte/Erklärende Soziologie.md",
     "Personen/August Comte.md",
