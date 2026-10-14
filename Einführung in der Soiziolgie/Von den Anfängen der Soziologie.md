@@ -14,7 +14,9 @@ Vorleser: Anna Wanka
 ![[Herbert Spencer]]
 # Soziologie zur Erklärung sozialer Phänomene
 ## [[Emile Durkheim]]
-![[Emile Durkheim]]
+![[Emile Durkheim#^514ef1]]
+
+![[Emile Durkheim#Der Selbstmord (1897)]]
 
 ## [[Max Weber]]
 ![[Max Weber]]
