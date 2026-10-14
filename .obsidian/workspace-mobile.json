@@ -51,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Durkheim",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -59,7 +59,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "Search"
+          "title": "Suchen"
         }
       },
       {
@@ -102,7 +102,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "32f282fd2c4ad388",
@@ -170,14 +170,16 @@
   },
   "active": "efc3ea9e59f63ac0",
   "lastOpenFiles": [
-    "Wissenschaftliches Wissen.md",
     "Vermittlungsprozess der Erkenntnis.md",
+    "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
+    "Das Subjekt-Objekt Problem.canvas",
+    "Forschungs- und Anwendungsfelder der Soziologie/Bevölkerung.md",
+    "Wissenschaftliches Wissen.md",
     "Sozialer Tatbestand.md",
     "Soziale Wirklichkeit.md",
     "Sozialdarwinismus.md",
     "Positivismus.md",
     "Differenzierung der wissenschaftstheoretischen Ebenen.md",
-    "Das Subjekt-Objekt Problem.canvas",
     "Alltagswissen und Reflexion.md",
     "/Wissenschaftliches Wissen.md",
     "/Vermittlungsprozess der Erkenntnis.md",
@@ -195,13 +197,10 @@
     "/Konzepte/Verstehende Soziologie.md",
     "/Konzepte/Erklärende Soziologie.md",
     "/Konzepte",
-    "Forschungs- und Anwendungsfelder der Soziologie/Bevölkerung.md",
     "/Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "/Einführung in der Soiziolgie",
     "/Differenzierung der wissenschaftstheoretischen Ebenen.md",
     "/Das Subjekt-Objekt Problem.canvas",
-    "/Alltagswissen und Reflexion.md",
-    "/Methodologischer Holismus.md",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "/Grundlagen sozialwissenschaftlicher Methodologie",
     "/Forschungs- und Anwendungsfelder der Soziologie",
