@@ -15,3 +15,7 @@ Vorleser: Ana Mijic
 ### Der dreistufige [[Vermittlungsprozess der Erkenntnis]]
 ![[Vermittlungsprozess der Erkenntnis]]
 ## [[Differenzierung der wissenschaftstheoretischen Ebenen]]
+![[Differenzierung der wissenschaftstheoretischen Ebenen]]
+# Kann man Gesellschaft wissenschaftlich untersuchen?
+## [[Herbert Spencer]] 
+- [[Sozialdarwinismus]]

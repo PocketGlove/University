@@ -22,21 +22,48 @@
             }
           },
           {
+            "id": "ee0cc4d5afdd3ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personen/August Comte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "August Comte"
+            }
+          },
+          {
             "id": "d0d4614e74f9ecdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differenzierung der wissenschaftstheoretischen Ebenen.md",
+                "file": "Personen/Herbert Spencer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Differenzierung der wissenschaftstheoretischen Ebenen"
+              "title": "Herbert Spencer"
+            }
+          },
+          {
+            "id": "0b3aa7bdf1552a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sozialdarwinismus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sozialdarwinismus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differenzierung der wissenschaftstheoretischen Ebenen.md",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,9 +252,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0d4614e74f9ecdb",
+  "active": "3eff706e64639c8e",
   "lastOpenFiles": [
+    "Personen/August Comte.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
+    "Sozialdarwinismus.md",
+    "Personen/Herbert Spencer.md",
     "Differenzierung der wissenschaftstheoretischen Ebenen.md",
     "Vermittlungsprozess der Erkenntnis.md",
     "Das Subjekt-Objekt Problem.md",
@@ -239,10 +269,8 @@
     "Konzepte/Verstehende Soziologie.md",
     "Personen/Max Weber.md",
     "Personen/Emile Durkheim.md",
-    "Personen/Herbert Spencer.md",
     "Personen/Harriet Martineau.md",
     "Konzepte/Drei-Stadien-Gesetz.md",
-    "Personen/August Comte.md",
     "Alltagswissen und Reflexion.md",
     "Forschungs- und Anwendungsfelder der Soziologie/Bevölkerung.md",
     "Soziale Wirklichkeit.md",
@@ -258,7 +286,6 @@
     "Literatur/\"Der Selbstmord\" (1897).md",
     "Literatur",
     "\"Der Selbstmord\".md",
-    "abe tebe.md",
     "Grundlagen wissenschaftlichen Arbeitens in der Soziologie",
     "Konzepte",
     "Personen",
