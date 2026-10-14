@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3eff706e64639c8e",
+            "id": "07e86fef4a116ab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialer Tatbestand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sozialer Tatbestand"
-            }
-          },
-          {
-            "id": "812b2a6976029b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
+                "file": "Grundlagen wissenschaftlichen Arbeitens in der Soziologie/Was zeichnet Sozialwissenschaften aus?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Was zeichnet Sozialwissenschaften aus?"
             }
-          },
-          {
-            "id": "c8c162ac9afbdd8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sozialer Tatbestand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sozialer Tatbestand"
-            }
-          },
-          {
-            "id": "671b3db9f007cc57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Von den Anfängen der Soziologie"
-            }
-          },
-          {
-            "id": "f01190afab2bbdb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Von den Anfängen der Soziologie"
-            }
-          },
-          {
-            "id": "b65b9483eacf2fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personen/Emile Durkheim.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emile Durkheim"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
+                "file": "Grundlagen wissenschaftlichen Arbeitens in der Soziologie/Was zeichnet Sozialwissenschaften aus?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
+                "file": "Grundlagen wissenschaftlichen Arbeitens in der Soziologie/Was zeichnet Sozialwissenschaften aus?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,8 +148,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -262,12 +191,23 @@
               "icon": "lucide-archive",
               "title": "Alle Eigenschaften"
             }
+          },
+          {
+            "id": "8a0c798154125ac6",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 284.28515625
+    "width": 317.4217529296875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,12 +221,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "812b2a6976029b6e",
+  "active": "0acd1053a018566b",
   "lastOpenFiles": [
+    "Grundlagen wissenschaftlichen Arbeitens in der Soziologie/Was zeichnet Sozialwissenschaften aus?.md",
     "Personen/Emile Durkheim.md",
+    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
     "Methodologischer Holismus.md",
     "Sozialer Tatbestand.md",
-    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
     "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "Konzepte/Erklärende Soziologie.md",
     "Personen/August Comte.md",
@@ -307,7 +248,6 @@
     "Forschungs- und Anwendungsfelder der Soziologie/Bevölkerung.md",
     "Soziale Wirklichkeit.md",
     "Literatur",
-    "Unbenannt.md",
     "Forschungs- und Anwendungsfelder der Soziologie/Einführung.md",
     "Wissenschaftstheorie und -geschichte.md",
     "Wissenschaftstheorie und -geschichte",
