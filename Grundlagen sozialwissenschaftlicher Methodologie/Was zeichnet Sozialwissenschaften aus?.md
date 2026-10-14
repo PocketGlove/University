@@ -21,4 +21,4 @@ Vorleser: Ana Mijic
 - [[Sozialdarwinismus]]![[Sozialdarwinismus]]
 ## [[August Comte]] 
 - [[Positivismus]]![[Positivismus]]
-## [[Emile Durkheim]] Fundamentalkritik an Comte und Spencer
+## [[Emile Durkheim]] Regeln für die 
