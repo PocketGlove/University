@@ -31,4 +31,6 @@ Vorleser: Ana Mijic
 ![[Dialektik-Modell nach Berger & Luckmann#Objektivierung]]
 ![[Dialektik-Modell nach Berger & Luckmann#Internalisierung]]
 ![[Konstruktion der Wirklichkeit.canvas]]
+## [[Grundspannungen sozialwissenschaftlicher Methodologie]]
+![[Grundspannungen sozialwissenschaftlicher Methodologie]]
 
