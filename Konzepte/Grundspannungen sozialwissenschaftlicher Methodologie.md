@@ -1,11 +1,6 @@
-# Verstehen vs. [[Erklären]]
+# [[Verstehen]] vs. [[Erklären]]
 Rekonstruktion von subjektivem Sinn, Handlungsabsichten und Akteursorientierungen (Verstehen) $\leftrightarrow$ Aufdeckung von objektiven Kausalketten, Gesetzmäßigkeiten und strukturellen Ursachen (Erklären).
 
-## Historischer Ausgangspunkt 
-[[Johann Gustav Droysen]]
-[[Wilhelm Dilthey]]
-
-Naturwissenschaft vs Geisteswissenschaften- Folie 7
 
 
 
