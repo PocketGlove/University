@@ -1,0 +1,1 @@
+Der methodologische Individualismus bildet die epistemologische Antithese zu Durkheims Holismus. Er besagt, dass soziale Phänomene, Institutionen und gesellschaftliche Strukturen ausschließlich als das Ergebnis, die Aggregation oder die unbeabsichtigte Folge des intentionalen Handelns, Denkens und der Interaktion einzelner Individuen erklärt werden müssen (Primat des Akteurs).

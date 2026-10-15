@@ -16,3 +16,5 @@
 	- Der wissenschaftliche Untersuchungsgegenstand darf nicht nach subjektiven Gefühlswerten, sondern muss primär über gemeinsame äußere, objektiv wahrnehmbare Merkmale definiert werden, losgelöst von seinen individuellen Manifestationen
 ### [[Sozialer Tatbestand]]
 ![[Sozialer Tatbestand]]
+### [[Methodologischer Individualismus]]
+![[Methodologischer Individualismus]]
