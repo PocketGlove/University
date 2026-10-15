@@ -175,8 +175,7 @@
               "title": "Johann Gustav Droysen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Konzepte/Qualitativ.md",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Konzepte/Qualitativ.md",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -313,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Konzepte/Qualitativ.md",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -375,18 +374,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f895f62dfd7a9fa",
+  "active": "4c84b5cc78a06383",
   "lastOpenFiles": [
-    "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
-    "Konzepte/Qualitativ.md",
-    "Konzepte/Verstehende Soziologie.md",
     "Konzepte/Quantitativ.md",
+    "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
+    "Induktiv.md",
+    "Konzepte/Qualitativ.md",
+    "Konzepte/Erklärende Soziologie.md",
+    "Konzepte/Verstehende Soziologie.md",
     "Deduktiv.md",
     "Literatur/Der Selbstmord (1897).md",
     "Verstehen.md",
     "Erklären.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
-    "Induktiv.md",
     "Wilhelm Windelband.md",
     "Idiographisch.md",
     "Nomothetisch.md",
@@ -407,7 +407,6 @@
     "Grundlagen wissenschaftlichen Arbeitens in der Soziologie",
     "Konzepte/Alltagswissen und Reflexion.md",
     "Grundlagen wissenschaftlichen Arbeitens in der Soziologie/Was zeichnet Sozialwissenschaften aus?.md",
-    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus?.md",
     "Konzepte/Das Subjekt-Objekt Problem.canvas",
     "Literatur",
     "Wissenschaftstheorie und -geschichte",
