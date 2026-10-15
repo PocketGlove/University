@@ -11,14 +11,17 @@
             "id": "4c84b5cc78a06383",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Personen/Emile Durkheim.md",
-                "mode": "source",
-                "source": false
+                "file": "Unbenannt.canvas",
+                "viewState": {
+                  "x": -104.31984064102662,
+                  "y": 98.65265330992185,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Emile Durkheim"
+              "icon": "lucide-layout-dashboard",
+              "title": "Unbenannt"
             }
           },
           {
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personen/Emile Durkheim.md",
+                "file": "Unbenannt.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personen/Emile Durkheim.md",
+                "file": "Unbenannt.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,9 +240,10 @@
   },
   "active": "4c84b5cc78a06383",
   "lastOpenFiles": [
-    "Methodologischer Individualismus.md",
-    "Personen/Emile Durkheim.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
+    "Unbenannt.canvas",
+    "Personen/Emile Durkheim.md",
+    "Methodologischer Individualismus.md",
     "Aktuelle gesellschaftliche Themen und Fragestellungen/Wer entscheidet, was wir online sagen dürfen.md",
     "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "Grundlagen sozialwissenschaftlicher Methodologie",
@@ -267,7 +271,6 @@
     "Personen/Harriet Martineau.md",
     "Konzepte/Drei-Stadien-Gesetz.md",
     "Forschungs- und Anwendungsfelder der Soziologie/Bevölkerung.md",
-    "Konzepte/Soziale Wirklichkeit.md",
     "Literatur",
     "Wissenschaftstheorie und -geschichte",
     "Aktuelle gesellschaftliche Themen und Fragestellungen",

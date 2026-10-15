@@ -25,3 +25,7 @@ Vorleser: Ana Mijic
 ![[Emile Durkheim#Methodologischer Holismus]]
 
 ![[Emile Durkheim#Sozialer Tatbestand]]
+![[Emile Durkheim#Methodologischer Individualismus]]
+## Dialektik-Modell nach Berger & Luckmann
+„Die Gesellschaft ist ein menschliches Produkt. Die Gesellschaft ist eine objektive Realität.
+Der Mensch ist ein gesellschaftliches Produkt.“ 
