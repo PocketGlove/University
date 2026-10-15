@@ -11,17 +11,14 @@
             "id": "4c84b5cc78a06383",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Unbenannt.canvas",
-                "viewState": {
-                  "x": -104.31984064102662,
-                  "y": 98.65265330992185,
-                  "zoom": 0
-                }
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unbenannt"
+              "icon": "lucide-file",
+              "title": "Was zeichnet Sozialwissenschaften aus"
             }
           },
           {
@@ -116,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unbenannt.canvas",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unbenannt.canvas",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,11 +237,11 @@
   },
   "active": "4c84b5cc78a06383",
   "lastOpenFiles": [
+    "Konzepte/Konstruktion der Wirklichkeit.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
-    "Unbenannt.canvas",
+    "Aktuelle gesellschaftliche Themen und Fragestellungen/Wer entscheidet, was wir online sagen dürfen.md",
     "Personen/Emile Durkheim.md",
     "Methodologischer Individualismus.md",
-    "Aktuelle gesellschaftliche Themen und Fragestellungen/Wer entscheidet, was wir online sagen dürfen.md",
     "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "Wissenschaftstheorie und -geschichte",
