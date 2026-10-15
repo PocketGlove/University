@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
+                "file": "Grundspannungen sozialwissenschaftlicher Methodologie.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Was zeichnet Sozialwissenschaften aus"
+              "title": "Grundspannungen sozialwissenschaftlicher Methodologie"
             }
           }
         ]
@@ -37,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false,
+            "autoReveal": true,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -170,6 +170,8 @@
   },
   "active": "efc3ea9e59f63ac0",
   "lastOpenFiles": [
+    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
+    "Grundspannungen sozialwissenschaftlicher Methodologie.md",
     "Wissenschaftliches Wissen.md",
     "Unbenannt",
     "Konzepte/Konstruktion der Wirklichkeit.canvas",
@@ -177,7 +179,6 @@
     "Dialektik-Modell nach Berger & Luckmann.md",
     "Aktuelle gesellschaftliche Themen und Fragestellungen/Wer entscheidet, was wir online sagen dürfen.md",
     "Aktuelle gesellschaftliche Themen und Fragestellungen",
-    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
     "Konzepte/Vermittlungsprozess der Erkenntnis.md",
     "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "Konzepte/Sozialer Tatbestand.md",
