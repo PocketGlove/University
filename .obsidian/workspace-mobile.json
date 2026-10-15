@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wissenschaftliches Wissen.md",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wissenschaftliches Wissen"
+              "title": "Was zeichnet Sozialwissenschaften aus"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "efc3ea9e59f63ac0",
   "lastOpenFiles": [
+    "Wissenschaftliches Wissen.md",
+    "Unbenannt",
     "Konzepte/Konstruktion der Wirklichkeit.canvas",
     "Methodologischer Individualismus.md",
     "Dialektik-Modell nach Berger & Luckmann.md",
@@ -193,7 +195,6 @@
     "Das Subjekt-Objekt Problem.canvas",
     "Vermittlungsprozess der Erkenntnis.md",
     "Forschungs- und Anwendungsfelder der Soziologie/Bevölkerung.md",
-    "Wissenschaftliches Wissen.md",
     "Sozialer Tatbestand.md",
     "Soziale Wirklichkeit.md",
     "Sozialdarwinismus.md",
@@ -207,7 +208,6 @@
     "/Das Subjekt-Objekt Problem.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "/Grundlagen sozialwissenschaftlicher Methodologie",
-    "/Forschungs- und Anwendungsfelder der Soziologie",
-    "Personen"
+    "/Forschungs- und Anwendungsfelder der Soziologie"
   ]
 }
