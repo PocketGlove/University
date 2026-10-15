@@ -1,0 +1,1 @@
+zitat von folie 7

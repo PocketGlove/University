@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
-                "mode": "preview",
+                "file": "Konzepte/Grundspannungen sozialwissenschaftlicher Methodologie.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Was zeichnet Sozialwissenschaften aus"
+              "title": "Grundspannungen sozialwissenschaftlicher Methodologie"
+            }
+          },
+          {
+            "id": "069b47e42ce4a6a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wilhelm Dilthey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wilhelm Dilthey"
+            }
+          },
+          {
+            "id": "b8c06573c423eb96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Johann Gustav Droysen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Johann Gustav Droysen"
             }
           },
           {
@@ -27,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
+                "file": "Personen/Emile Durkheim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Was zeichnet Sozialwissenschaften aus"
+              "title": "Emile Durkheim"
             }
           },
           {
@@ -77,8 +105,7 @@
               "title": "Methodologischer Individualismus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
+                "file": "Konzepte/Grundspannungen sozialwissenschaftlicher Methodologie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -278,19 +305,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c3f98be4b0365e0",
+  "active": "4c84b5cc78a06383",
   "lastOpenFiles": [
-    "Konzepte/Methodologischer Individualismus.md",
+    "Wilhelm Dilthey.md",
     "Konzepte/Grundspannungen sozialwissenschaftlicher Methodologie.md",
+    "Johann Gustav Droysen.md",
+    "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
+    "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
+    "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
+    "Aktuelle gesellschaftliche Themen und Fragestellungen/1. Wer entscheidet, was wir online sagen dürfen.md",
+    "Personen/Emile Durkheim.md",
+    "Konzepte/Methodologischer Individualismus.md",
     "Konzepte/Wissenschaftliches Wissen.md",
-    "Unbenannt.md",
-    "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
     "Wissenschaftstheorie und -geschichte/Unbenannt.md",
     "Konzepte/Dialektik-Modell nach Berger & Luckmann.md",
     "Konzepte/Konstruktion der Wirklichkeit.canvas",
-    "Aktuelle gesellschaftliche Themen und Fragestellungen/Wer entscheidet, was wir online sagen dürfen.md",
-    "Personen/Emile Durkheim.md",
-    "Einführung in der Soiziolgie/Von den Anfängen der Soziologie.md",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "Wissenschaftstheorie und -geschichte",
     "Unbenannt",
@@ -310,8 +339,6 @@
     "Das Subjekt-Objekt Problem.md",
     "Konzepte/Das Subjekt-Objekt Problem.canvas",
     "Literatur/Der Selbstmord (1897).md",
-    "Konzepte/Verstehende Soziologie.md",
-    "Personen/Max Weber.md",
     "Literatur",
     "Wissenschaftstheorie und -geschichte",
     "Aktuelle gesellschaftliche Themen und Fragestellungen",

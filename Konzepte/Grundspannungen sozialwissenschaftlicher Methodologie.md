@@ -1,5 +1,15 @@
 # Verstehen vs. Erklären
 Rekonstruktion von subjektivem Sinn, Handlungsabsichten und Akteursorientierungen (Verstehen) $\leftrightarrow$ Aufdeckung von objektiven Kausalketten, Gesetzmäßigkeiten und strukturellen Ursachen (Erklären).
+
+## Historischer Ausgangspunkt 
+[[Johann Gustav Droysen]]
+[[Wilhelm Dilthey]]
+
+Naturwissenschaft vs Geisteswissenschaften- Folie 7
+
+
+
+
 # Nomothetisch vs. Idiographisch
 Das Ziel, allgemeingültige, zeitlos gültige Sozialgesetze zu formulieren (Nomothetisch) $\leftrightarrow$ Die umfassende, tiefgehende Beschreibung einmaliger, historisch-konkreter Einzelfälle (Idiographisch).
 # Induktiv vs. Deduktiv
