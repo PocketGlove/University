@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
+                "file": "Wissenschaftstheorie und -geschichte/Unbenannt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Was zeichnet Sozialwissenschaften aus"
+              "title": "Unbenannt"
             }
           },
           {
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
+                "file": "Grundspannungen sozialwissenschaftlicher Methodologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
+                "file": "Wissenschaftstheorie und -geschichte/Unbenannt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -265,8 +265,9 @@
   },
   "active": "4c84b5cc78a06383",
   "lastOpenFiles": [
-    "Grundspannungen sozialwissenschaftlicher Methodologie.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/Was zeichnet Sozialwissenschaften aus.md",
+    "Wissenschaftstheorie und -geschichte/Unbenannt.md",
+    "Grundspannungen sozialwissenschaftlicher Methodologie.md",
     "Dialektik-Modell nach Berger & Luckmann.md",
     "Konzepte/Konstruktion der Wirklichkeit.canvas",
     "Aktuelle gesellschaftliche Themen und Fragestellungen/Wer entscheidet, was wir online sagen dürfen.md",
@@ -296,7 +297,6 @@
     "Konzepte/Verstehende Soziologie.md",
     "Personen/Max Weber.md",
     "Personen/Harriet Martineau.md",
-    "Konzepte/Drei-Stadien-Gesetz.md",
     "Literatur",
     "Wissenschaftstheorie und -geschichte",
     "Aktuelle gesellschaftliche Themen und Fragestellungen",
