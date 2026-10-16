@@ -356,7 +356,8 @@
               "title": "History"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -374,11 +375,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88082b3cfe00c00c",
+  "active": "0acd1053a018566b",
   "lastOpenFiles": [
-    "Konzepte/Qualitativ.md",
-    "Personen/Paul Lazarsfeld.md",
+    "Personen/Max Horkheimer.md",
     "Einführung in der Soiziolgie/3. Die soziale Konstruktion der Wirklichkeit.md",
+    "Konzepte/Qualitativ.md",
+    "Personen/Theodor W. Adorno.md",
+    "Personen/Walter Benjamin.md",
+    "Personen/Paul Lazarsfeld.md",
     "Personen/Marie Jahoda.md",
     "Personen/Georg Simmel.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
@@ -399,9 +403,6 @@
     "Personen/Emile Durkheim.md",
     "Konzepte/Grundspannungen sozialwissenschaftlicher Methodologie.md",
     "Personen/Wilhelm Dilthey.md",
-    "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
-    "Aktuelle gesellschaftliche Themen und Fragestellungen/1. Wer entscheidet, was wir online sagen dürfen.md",
-    "Konzepte/Methodologischer Individualismus.md",
     "Konzepte/Konstruktion der Wirklichkeit.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "Wissenschaftstheorie und -geschichte",
