@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deduktiv.md",
+                "file": "Konzepte/Deduktiv.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Induktiv.md",
+                "file": "Konzepte/Induktiv.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wilhelm Windelband.md",
+                "file": "Personen/Wilhelm Windelband.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idiographisch.md",
+                "file": "Konzepte/Idiographisch.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nomothetisch.md",
+                "file": "Konzepte/Nomothetisch.md",
                 "mode": "source",
                 "source": false
               },
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verstehen.md",
+                "file": "Konzepte/Verstehen.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erklären.md",
+                "file": "Konzepte/Erklären.md",
                 "mode": "source",
                 "source": false
               },
@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wilhelm Dilthey.md",
+                "file": "Personen/Wilhelm Dilthey.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Johann Gustav Droysen.md",
+                "file": "Personen/Johann Gustav Droysen.md",
                 "mode": "source",
                 "source": false
               },
@@ -374,31 +374,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c84b5cc78a06383",
+  "active": "88082b3cfe00c00c",
   "lastOpenFiles": [
     "Konzepte/Qualitativ.md",
-    "Paul Lazarsfeld.md",
+    "Personen/Paul Lazarsfeld.md",
     "Einführung in der Soiziolgie/3. Die soziale Konstruktion der Wirklichkeit.md",
-    "Marie Jahoda.md",
-    "Georg Simmel.md",
+    "Personen/Marie Jahoda.md",
+    "Personen/Georg Simmel.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
     "Einführung in der Soiziolgie/2. Soziologie im Nationalsozialismus.md",
     "Konzepte/Quantitativ.md",
-    "Induktiv.md",
+    "Konzepte/Induktiv.md",
     "Konzepte/Erklärende Soziologie.md",
     "Konzepte/Verstehende Soziologie.md",
-    "Deduktiv.md",
+    "Konzepte/Deduktiv.md",
     "Literatur/Der Selbstmord (1897).md",
-    "Verstehen.md",
-    "Erklären.md",
+    "Konzepte/Verstehen.md",
+    "Konzepte/Erklären.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
-    "Wilhelm Windelband.md",
-    "Idiographisch.md",
-    "Nomothetisch.md",
-    "Johann Gustav Droysen.md",
+    "Personen/Wilhelm Windelband.md",
+    "Konzepte/Idiographisch.md",
+    "Konzepte/Nomothetisch.md",
+    "Personen/Johann Gustav Droysen.md",
     "Personen/Emile Durkheim.md",
     "Konzepte/Grundspannungen sozialwissenschaftlicher Methodologie.md",
-    "Wilhelm Dilthey.md",
+    "Personen/Wilhelm Dilthey.md",
     "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
     "Aktuelle gesellschaftliche Themen und Fragestellungen/1. Wer entscheidet, was wir online sagen dürfen.md",
     "Konzepte/Methodologischer Individualismus.md",
