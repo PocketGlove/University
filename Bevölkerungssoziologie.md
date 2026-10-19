@@ -1,0 +1,1 @@
+Bevölkerungswissenschaft aus einer soziologischen Perspektive beschrieben werden.

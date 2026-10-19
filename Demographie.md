@@ -2,4 +2,4 @@ Demographie ist die Wissenschaft von menschlichen Bevölkerungen. Sie befasst si
 
 "Individuals are born, they age, they move from place to place, they reproduce, they become ill, and they die."
 
-[[Fertilität]] , Mortalität, 
+Demographie ist die Zusammenhang zwischen die Bevölkerung und Ressourcen und soziale und politische Dynamiken
