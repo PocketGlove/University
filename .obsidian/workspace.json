@@ -182,7 +182,7 @@
               "type": "markdown",
               "state": {
                 "file": "Personen/Emile Durkheim.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -248,8 +248,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -391,11 +390,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43359ab523c19c0e",
+  "active": "c1df3bdca9bcc13e",
   "lastOpenFiles": [
+    "19-10-2026.md",
+    "Einführung in der Soiziolgie/3. Die soziale Konstruktion der Wirklichkeit.md",
+    "Personen/Emile Durkheim.md",
     "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/3. Soziographie- Abbildung sozialer Phänomene.md",
-    "Einführung in der Soiziolgie/3. Die soziale Konstruktion der Wirklichkeit.md",
     "Personen/Max Horkheimer.md",
     "Konzepte/Qualitativ.md",
     "Personen/Theodor W. Adorno.md",
@@ -417,8 +418,6 @@
     "Personen/Wilhelm Windelband.md",
     "Konzepte/Idiographisch.md",
     "Konzepte/Nomothetisch.md",
-    "Personen/Johann Gustav Droysen.md",
-    "Personen/Emile Durkheim.md",
     "Konzepte/Konstruktion der Wirklichkeit.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "Wissenschaftstheorie und -geschichte",
