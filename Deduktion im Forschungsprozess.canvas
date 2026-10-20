@@ -1,9 +1,31 @@
 {
 	"nodes":[
 		{
+			"id":"8d8d13fe7f41d6fa",
+			"type":"text",
+			"text":"Hypothese",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-140,
+			"y":-80,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"2f58e916bb73cc15",
+			"type":"text",
+			"text":"Operationalisierung",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-140,
+			"y":20,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
 			"id":"d63c6b6d51b7a49c",
 			"type":"text",
-			"text":"Theorie",
+			"text":"**Theorie**",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-140,
 			"y":-180,
@@ -11,18 +33,141 @@
 			"height":60
 		},
 		{
-			"id":"8d8d13fe7f41d6fa",
+			"id":"3488a693000954c1",
 			"type":"text",
-			"text":"Hypothese",
-			"styleAttributes":{},
+			"text":"Überprüfung",
+			"styleAttributes":{"textAlign":"center"},
 			"x":-140,
-			"y":-80,
+			"y":120,
 			"width":260,
 			"height":60,
 			"color":"6"
+		},
+		{
+			"id":"b62bfc04359a1b70",
+			"type":"text",
+			"text":"**Falsifikation**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-222,
+			"y":220,
+			"width":165,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"1471be9cc794ff71",
+			"type":"text",
+			"text":"Bewährung",
+			"styleAttributes":{"textAlign":"center"},
+			"x":38,
+			"y":220,
+			"width":165,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"0331ba0c47dea47f",
+			"type":"text",
+			"text":"Veränderung",
+			"styleAttributes":{"textAlign":"center","border":"invisible"},
+			"x":-440,
+			"y":20,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e38a20a58e3bc409",
+			"type":"text",
+			"text":"Unterstützung",
+			"styleAttributes":{"textAlign":"center","border":"invisible"},
+			"x":160,
+			"y":20,
+			"width":260,
+			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"6a249426b9a43549",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d63c6b6d51b7a49c",
+			"fromSide":"bottom",
+			"toNode":"8d8d13fe7f41d6fa",
+			"toSide":"top"
+		},
+		{
+			"id":"cfbc4c922f3bc2e1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d63c6b6d51b7a49c",
+			"fromSide":"bottom",
+			"toNode":"8d8d13fe7f41d6fa",
+			"toSide":"top",
+			"color":"6"
+		},
+		{
+			"id":"a114b291525ee504",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"8d8d13fe7f41d6fa",
+			"fromSide":"bottom",
+			"toNode":"2f58e916bb73cc15",
+			"toSide":"top",
+			"color":"6"
+		},
+		{
+			"id":"5e57486daddd713f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2f58e916bb73cc15",
+			"fromSide":"bottom",
+			"toNode":"3488a693000954c1",
+			"toSide":"top",
+			"color":"6"
+		},
+		{
+			"id":"98a4ef0711566d08",
+			"styleAttributes":{"pathfindingMethod":"square","arrow":"triangle-outline"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3488a693000954c1",
+			"fromSide":"bottom",
+			"toNode":"b62bfc04359a1b70",
+			"toSide":"top",
+			"color":"1"
+		},
+		{
+			"id":"968d40f2db03a601",
+			"styleAttributes":{"pathfindingMethod":"square","arrow":"triangle-outline"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3488a693000954c1",
+			"fromSide":"bottom",
+			"toNode":"1471be9cc794ff71",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"63322229433ba07c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"b62bfc04359a1b70",
+			"fromSide":"left",
+			"toNode":"d63c6b6d51b7a49c",
+			"toSide":"left"
+		},
+		{
+			"id":"3d7a3674221c717f",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"1471be9cc794ff71",
+			"fromSide":"right",
+			"toNode":"d63c6b6d51b7a49c",
+			"toSide":"right"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

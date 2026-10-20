@@ -1,1 +1,0 @@
-Von allgemein zu konkret
