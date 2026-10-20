@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{
+			"id":"d63c6b6d51b7a49c",
+			"type":"text",
+			"text":"Theorie",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-140,
+			"y":-180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8d8d13fe7f41d6fa",
+			"type":"text",
+			"text":"Hypothese",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-80,
+			"width":260,
+			"height":60,
+			"color":"6"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

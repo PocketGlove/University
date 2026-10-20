@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -36,23 +36,24 @@
             }
           },
           {
-            "id": "9b44d1a655362279",
+            "id": "36e65ca5322df1ea",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Deduktion.canvas",
+                "file": "Deduktion im Forschungsprozess.canvas",
                 "viewState": {
-                  "x": 129.36527192736563,
-                  "y": -106.99538362938706,
-                  "zoom": -0.5085274149916348
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Deduktion"
+              "title": "Deduktion im Forschungsprozess"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,9 +254,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b50cce73aabbefdb",
+  "active": "36e65ca5322df1ea",
   "lastOpenFiles": [
     "Konzepte/Deduktiv.md",
+    "Deduktion im Forschungsprozess.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
     "Gegensatzpaare.canvas",
     "Deduktion.canvas",
