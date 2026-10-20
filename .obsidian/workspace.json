@@ -25,14 +25,17 @@
             "id": "283ad8e596d189c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Konzepte/Induktiv.md",
-                "mode": "source",
-                "source": false
+                "file": "Induktion.canvas",
+                "viewState": {
+                  "x": -163.96485662099386,
+                  "y": -99.21882942809256,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Induktiv"
+              "icon": "lucide-layout-dashboard",
+              "title": "Induktion"
             }
           }
         ],
@@ -239,6 +242,8 @@
   },
   "active": "283ad8e596d189c8",
   "lastOpenFiles": [
+    "Konzepte/Induktiv.md",
+    "Induktion.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
     "Konzepte/Deduktiv.md",
     "Deduktion im Forschungsprozess.canvas",
@@ -255,7 +260,6 @@
     "Das Deduktiv-nomologh.md",
     "Personen/Johann Gustav Droysen.md",
     "Personen/Wilhelm Dilthey.md",
-    "Konzepte/Induktiv.md",
     "Konzepte/Quantitativ.md",
     "Konzepte/Qualitativ.md",
     "Einführung in der Soiziolgie/2. Die soziale Konstruktion der Wirklichkeit.md",
