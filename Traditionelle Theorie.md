@@ -1,0 +1,2 @@
+- will [[Verstehen]] und [[Erklären]]
+- geht davon aus, dass Wissenschaft neutral sein kann

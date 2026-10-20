@@ -1,0 +1,2 @@
+- will [[Verstehen]], [[Erklären]], verändern und verbessern 
+- geht davon aus, dass Wissenschaft selbst Teil der Gesellschaft und damit nie wertfrei ist
