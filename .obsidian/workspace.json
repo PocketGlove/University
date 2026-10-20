@@ -43,17 +43,16 @@
               "state": {
                 "file": "Deduktion.canvas",
                 "viewState": {
-                  "x": 447.1237671481028,
-                  "y": -33.03895219209663,
-                  "zoom": -0.26674843291197925
+                  "x": 129.36527192736563,
+                  "y": -106.99538362938706,
+                  "zoom": -0.5085274149916348
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Deduktion"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,12 +253,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b44d1a655362279",
+  "active": "b50cce73aabbefdb",
   "lastOpenFiles": [
     "Konzepte/Deduktiv.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
-    "Deduktion.canvas",
     "Gegensatzpaare.canvas",
+    "Deduktion.canvas",
     "Konzepte/Idiographisch.md",
     "Konzepte/Nomothetisch.md",
     "Personen/Wilhelm Windelband.md",

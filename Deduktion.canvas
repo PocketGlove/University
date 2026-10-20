@@ -18,7 +18,15 @@
 			"width":300,
 			"height":160
 		},
-		{"id":"ca4a2f8297bebd46","type":"group","x":500,"y":-140,"width":300,"height":160},
+		{
+			"id":"ca4a2f8297bebd46",
+			"type":"group",
+			"styleAttributes":{"border":"invisible"},
+			"x":520,
+			"y":-140,
+			"width":300,
+			"height":160
+		},
 		{
 			"id":"349dab1ab1514106",
 			"type":"text",
@@ -72,38 +80,52 @@
 			"height":120
 		},
 		{
-			"id":"ee29ff6fb93f0d08",
+			"id":"b620e11c887b523e",
 			"type":"text",
-			"text":"logische Ableitung",
-			"styleAttributes":{"shape":"pill","border":"invisible","textAlign":"center"},
-			"x":260,
-			"y":-150,
+			"text":"Sokrates ist sterblich",
+			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
+			"x":540,
+			"y":-60,
 			"width":260,
 			"height":60
 		},
 		{
 			"id":"623af6fc87eb8489",
 			"type":"text",
-			"text":"**Einzelaussage**",
+			"text":"**Schlussfolgerung**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":520,
+			"x":540,
 			"y":-120,
 			"width":260,
 			"height":60,
 			"color":"6"
 		},
 		{
-			"id":"b620e11c887b523e",
+			"id":"ee29ff6fb93f0d08",
 			"type":"text",
-			"text":"Sokrates ist ein Mensch",
-			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
-			"x":520,
-			"y":-60,
+			"text":"logische Ableitung",
+			"styleAttributes":{
+				"shape":null,
+				"border":"invisible",
+				"textAlign":"center"
+			},
+			"x":260,
+			"y":-120,
 			"width":260,
 			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"67ac98460520d8c7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c59f584a66d290a5",
+			"fromSide":"right",
+			"toNode":"ca4a2f8297bebd46",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
