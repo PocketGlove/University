@@ -28,7 +28,7 @@
 			"text":"[[Idiographisch]]\n",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-380,
-			"y":-20,
+			"y":-40,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -39,7 +39,7 @@
 			"text":"[[Verstehen]]",
 			"styleAttributes":{"textAlign":"center"},
 			"x":20,
-			"y":-20,
+			"y":-40,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -53,7 +53,8 @@
 			"fromNode":"ca191433c6406f65",
 			"fromSide":"right",
 			"toNode":"163fa46ed3f8513f",
-			"toSide":"left"
+			"toSide":"left",
+			"fromEnd":"arrow"
 		},
 		{
 			"id":"5345a07a529ddbb9",
@@ -62,7 +63,8 @@
 			"fromNode":"8d3d84aeda525223",
 			"fromSide":"left",
 			"toNode":"c75aefd685876c6c",
-			"toSide":"right"
+			"toSide":"right",
+			"fromEnd":"arrow"
 		}
 	],
 	"metadata":{
