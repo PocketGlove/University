@@ -4,7 +4,7 @@
 			"id":"ab67c96d764740ff",
 			"type":"text",
 			"text":"allgemeinem Gesetz",
-			"styleAttributes":{"textAlign":"center"},
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
 			"x":-640,
 			"y":-140,
 			"width":260,
@@ -13,15 +13,117 @@
 		{
 			"id":"7640f95ecd8ae330",
 			"type":"text",
-			"text":"+ ",
-			"styleAttributes":{},
-			"x":-140,
-			"y":-60,
-			"width":340,
+			"text":"**+**",
+			"styleAttributes":{"textAlign":"center","border":"invisible"},
+			"x":-380,
+			"y":-140,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"bb5d24944dc63689",
+			"type":"text",
+			"text":"spezifischen Rahmenbedingungen",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-320,
+			"y":-140,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3035c168da9a25df",
+			"type":"text",
+			"text":"**Explanans** = das Erklärende",
+			"styleAttributes":{"textAlign":"center","shape":"pill","border":"invisible"},
+			"x":-480,
+			"y":-20,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b354ee33125c2457",
+			"type":"text",
+			"text":"erklärendes Phänomen",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":40,
+			"y":-140,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4ff441010b89d038",
+			"type":"text",
+			"text":"**Explanandum** = das zu Erklärende ",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null,
+				"border":"invisible"
+			},
+			"x":40,
+			"y":-20,
+			"width":260,
 			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"aba559a62f786f7d",
+			"styleAttributes":{
+				"path":null,
+				"arrow":"blunt",
+				"pathfindingMethod":"square"
+			},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3035c168da9a25df",
+			"fromSide":"top",
+			"toNode":"ab67c96d764740ff",
+			"toSide":"bottom",
+			"toEnd":"none"
+		},
+		{
+			"id":"622582431226d93b",
+			"styleAttributes":{"arrow":"blunt","pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"bb5d24944dc63689",
+			"fromSide":"bottom",
+			"toNode":"3035c168da9a25df",
+			"toSide":"top",
+			"toEnd":"none"
+		},
+		{
+			"id":"b493a8774332943d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"bb5d24944dc63689",
+			"fromSide":"right",
+			"toNode":"b354ee33125c2457",
+			"toSide":"left"
+		},
+		{
+			"id":"15ff0fc9b8299182",
+			"styleAttributes":{"arrow":"blunt","pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"b354ee33125c2457",
+			"fromSide":"left",
+			"toNode":"4ff441010b89d038",
+			"toSide":"top",
+			"toEnd":"none"
+		},
+		{
+			"id":"21cb054952f583e7",
+			"styleAttributes":{"arrow":"blunt","pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b354ee33125c2457",
+			"fromSide":"right",
+			"toNode":"4ff441010b89d038",
+			"toSide":"top",
+			"toEnd":"none"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{},

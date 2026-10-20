@@ -8,3 +8,8 @@
 - über die Beschreibung eines Phänomens hinausgehen und sein Auftreten begründet erklären
 # Das [[Deduktiv]]-nomologische Erklärungsmodell
 ![[Das deduktiv-nomologische Erklärungsmodell.canvas]]
+# [[Induktiv]]-statistische Erklärung
+- Soziale Phänomene lassen sich in der Regel nicht mit Sicherheit, sondern nur mit einer bestimmten Wahrscheinlichkeit erklären.
+## Nicht 
+- **Wenn A, dann immer B**
+## Sondern 

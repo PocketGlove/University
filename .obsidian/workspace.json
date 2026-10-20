@@ -25,17 +25,14 @@
             "id": "7ca1ed158fd5b3d7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Das deduktiv-nomologische Erklärungsmodell.canvas",
-                "viewState": {
-                  "x": -14.199587897405706,
-                  "y": -37.78245898978333,
-                  "zoom": -0.008123411294120197
-                }
+                "file": "Konzepte/Erklären.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Das deduktiv-nomologische Erklärungsmodell"
+              "icon": "lucide-file",
+              "title": "Erklären"
             }
           }
         ],
@@ -242,11 +239,11 @@
   },
   "active": "7ca1ed158fd5b3d7",
   "lastOpenFiles": [
-    "Konzepte/Erklären.md",
     "Das deduktiv-nomologische Erklärungsmodell.canvas",
-    "Das Deduktiv-nomologh.md",
-    "Konzepte/Deduktiv.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
+    "Konzepte/Erklären.md",
+    "Konzepte/Deduktiv.md",
+    "Das Deduktiv-nomologh.md",
     "Personen/Johann Gustav Droysen.md",
     "Personen/Wilhelm Dilthey.md",
     "Konzepte/Verstehen.md",
