@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "b90e6a8b39eafa9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Konzepte/Verstehen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verstehen"
+            }
+          },
+          {
             "id": "7ca1ed158fd5b3d7",
             "type": "leaf",
             "state": {
@@ -70,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "canvas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,16 +251,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ca1ed158fd5b3d7",
+  "active": "b90e6a8b39eafa9c",
   "lastOpenFiles": [
-    "Das deduktiv-nomologische Erklärungsmodell.canvas",
-    "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
     "Konzepte/Erklären.md",
+    "Konzepte/Verstehen.md",
+    "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
+    "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
+    "Das deduktiv-nomologische Erklärungsmodell.canvas",
     "Konzepte/Deduktiv.md",
     "Das Deduktiv-nomologh.md",
     "Personen/Johann Gustav Droysen.md",
     "Personen/Wilhelm Dilthey.md",
-    "Konzepte/Verstehen.md",
     "Konzepte/Nomothetisch.md",
     "Konzepte/Idiographisch.md",
     "Personen/Wilhelm Windelband.md",

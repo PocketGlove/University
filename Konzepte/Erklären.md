@@ -12,4 +12,5 @@
 - Soziale Phänomene lassen sich in der Regel nicht mit Sicherheit, sondern nur mit einer bestimmten Wahrscheinlichkeit erklären.
 ## Nicht 
 - **Wenn A, dann immer B**
-## Sondern 
+## Sondern
+- **Wenn A, dann tritt B mit einer bestimmten Wahrscheinlichkeit auf**
