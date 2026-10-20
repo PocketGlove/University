@@ -11,14 +11,17 @@
             "id": "b50cce73aabbefdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
-                "mode": "source",
-                "source": false
+                "file": "Theorie-Empirie-Zirkel.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "2. Zentraler Orientierungsrahmen in den Sozialwissenschaften"
+              "icon": "lucide-layout-dashboard",
+              "title": "Theorie-Empirie-Zirkel"
             }
           },
           {
@@ -252,10 +255,12 @@
   },
   "active": "b50cce73aabbefdb",
   "lastOpenFiles": [
-    "Konzepte/Induktiv.md",
     "Das Induktionsproblem.md",
-    "Induktion.canvas",
+    "Theorie-Empirie-Zirkel.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
+    "Theorie.md",
+    "Konzepte/Induktiv.md",
+    "Induktion.canvas",
     "Konzepte/Deduktiv.md",
     "Deduktion im Forschungsprozess.canvas",
     "Gegensatzpaare.canvas",
@@ -283,8 +288,6 @@
     "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
     "Forschungs- und Anwendungsfelder der Soziologie/1. Bevölkerung.md",
     "Forschungs- und Anwendungsfelder der Soziologie/2. Migration.md",
-    "Aktuelle gesellschaftliche Themen und Fragestellungen/1. Wer entscheidet, was wir online sagen dürfen.md",
-    "Einführung in der Soiziolgie/2. Soziologie im Nationalsozialismus.md",
     "Konzepte/Konstruktion der Wirklichkeit.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "Wissenschaftstheorie und -geschichte",
