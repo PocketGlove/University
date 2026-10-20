@@ -252,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.58984375
+    "width": 427.58984375,
+    "collapsed": true
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -392,8 +393,9 @@
   },
   "active": "4a3c41eedbf46693",
   "lastOpenFiles": [
-    "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
+    "Personen/Georg Simmel.md",
     "Einführung in der Soiziolgie/2. Die soziale Konstruktion der Wirklichkeit.md",
+    "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
     "Forschungs- und Anwendungsfelder der Soziologie/1. Bevölkerung.md",
     "Forschungs- und Anwendungsfelder der Soziologie/2. Migration.md",
     "Aktuelle gesellschaftliche Themen und Fragestellungen/1. Wer entscheidet, was wir online sagen dürfen.md",
@@ -415,7 +417,6 @@
     "Personen/Walter Benjamin.md",
     "Personen/Paul Lazarsfeld.md",
     "Personen/Marie Jahoda.md",
-    "Personen/Georg Simmel.md",
     "Konzepte/Quantitativ.md",
     "Konzepte/Induktiv.md",
     "Konzepte/Konstruktion der Wirklichkeit.canvas",

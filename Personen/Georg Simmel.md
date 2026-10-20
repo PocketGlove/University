@@ -1,0 +1,3 @@
+- Fokus auf Formen und Praktiken der Vergesellschaftung im scheinbar Alltäglichen
+- Reizüberflutung in Großstädten => Blasiertheit (Indifferenz) als Schutzmechanismus: Die Umwelt wirkt bis in die Psyche
+	-  Neurasthenie: chronische Erschöpfung & Überforderung durch die Moderne
