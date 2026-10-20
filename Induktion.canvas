@@ -1,21 +1,11 @@
 {
 	"nodes":[
 		{
-			"id":"9ec00a7f3b070c17",
-			"type":"text",
-			"text":"Generalisierung",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-160,
-			"y":-190,
-			"width":260,
-			"height":100
-		},
-		{
 			"id":"dd43d477bff2d585",
 			"type":"text",
-			"text":"**1**",
+			"text":"**x1**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-420,
+			"x":-400,
 			"y":-320,
 			"width":60,
 			"height":60
@@ -23,9 +13,9 @@
 		{
 			"id":"2540f40587fa9cef",
 			"type":"text",
-			"text":"**2**",
+			"text":"**x2**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-420,
+			"x":-400,
 			"y":-220,
 			"width":60,
 			"height":60
@@ -33,9 +23,9 @@
 		{
 			"id":"c098fba049305289",
 			"type":"text",
-			"text":"**3**",
+			"text":"**x3**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-420,
+			"x":-400,
 			"y":-120,
 			"width":60,
 			"height":60
@@ -43,20 +33,80 @@
 		{
 			"id":"e9eb234ca2b8a3b5",
 			"type":"text",
-			"text":"**n**",
+			"text":"**xn**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-420,
+			"x":-400,
 			"y":-20,
 			"width":60,
 			"height":60
 		},
 		{
+			"id":"e76bc3ed642ef707",
+			"type":"text",
+			"text":"ist a",
+			"styleAttributes":{"textAlign":"center","border":"invisible"},
+			"x":-340,
+			"y":-50,
+			"width":80,
+			"height":60
+		},
+		{
 			"id":"ba8b596c8dd5479c",
 			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-260,
-			"y":80,
+			"text":"ist a",
+			"styleAttributes":{"textAlign":"center","border":"invisible"},
+			"x":-340,
+			"y":-150,
+			"width":80,
+			"height":60
+		},
+		{
+			"id":"2140c82cc61c634c",
+			"type":"text",
+			"text":"ist a",
+			"styleAttributes":{"textAlign":"center","border":"invisible"},
+			"x":-340,
+			"y":-250,
+			"width":80,
+			"height":60
+		},
+		{
+			"id":"057e2253820d163e",
+			"type":"text",
+			"text":"ist a",
+			"styleAttributes":{"textAlign":"center","border":"invisible"},
+			"x":-340,
+			"y":-350,
+			"width":80,
+			"height":60
+		},
+		{
+			"id":"9ec00a7f3b070c17",
+			"type":"text",
+			"text":"Generalisierung",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-160,
+			"y":-190,
+			"width":160,
+			"height":100
+		},
+		{
+			"id":"6c5a35332ee2c7ca",
+			"type":"text",
+			"text":"**Allgemeine Aussage**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":50,
+			"y":-170,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ebbf333b9ae1d892",
+			"type":"text",
+			"text":"Alle x sind a",
+			"styleAttributes":{"textAlign":"center"},
+			"x":50,
+			"y":-20,
 			"width":260,
 			"height":60
 		}
@@ -101,6 +151,24 @@
 			"fromSide":"right",
 			"toNode":"9ec00a7f3b070c17",
 			"toSide":"left"
+		},
+		{
+			"id":"6e64fa52fe06f88d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9ec00a7f3b070c17",
+			"fromSide":"right",
+			"toNode":"6c5a35332ee2c7ca",
+			"toSide":"left"
+		},
+		{
+			"id":"91e2fd71aa8be15a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6c5a35332ee2c7ca",
+			"fromSide":"bottom",
+			"toNode":"ebbf333b9ae1d892",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
