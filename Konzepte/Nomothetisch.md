@@ -1,0 +1,3 @@
+- Griechisch nomos = Gesetz
+- Suche nach Gesetzmäßigkeiten und Regelmäßigkeiten
+- Bezug zum deduktiv-nomologischen Erklärungsmodell

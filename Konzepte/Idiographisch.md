@@ -1,0 +1,2 @@
+- Griechisch idios = das Eigene, Eigentümliche, Besondere
+- Betrachtung des Einzelnen in seiner Besonderheit

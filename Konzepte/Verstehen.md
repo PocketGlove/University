@@ -10,11 +10,10 @@
 	- Handlungen, Äußerungen und soziale Praktiken als sinnhaft betrachten 
 - Sinnzusammenhänge erschließen
 	- Bedeutungen im jeweiligen sozialen Zusammenhang interpretieren
-- Methodisch kontrolliert ref
-
-die Tat in Kontext zu nachvollziehen
-
-
-
-
-was und wie etwas in einer Interview gesagt ist
+- Methodisch kontrolliert reflektieren 
+	- Interpretationen systematisch entwickeln und am Material begründen 
+- Eigene Deutungen reflektieren
+	- Vorannahmen hinterfragen und alternative Interpretationen berücksichtigen
+# Ziel
+- Sinn- und Bedeutungszusammenhänge systematisch und intersubjektiv
+nachvollziehbar rekonstruieren und die Tat in Kontext zu nachvollziehen
