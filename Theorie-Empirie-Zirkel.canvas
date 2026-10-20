@@ -31,7 +31,7 @@
 			"y":180,
 			"width":260,
 			"height":60,
-			"color":"#cacaca"
+			"color":"3"
 		},
 		{
 			"id":"e5eba57e01c53122",
@@ -65,8 +65,7 @@
 			"fromNode":"97699c8f4f869be3",
 			"fromSide":"top",
 			"toNode":"c7a31fa8b06c9c94",
-			"toSide":"left",
-			"color":"6"
+			"toSide":"left"
 		},
 		{
 			"id":"b412d6f19746ba79",
@@ -77,8 +76,7 @@
 			"fromSide":"right",
 			"toNode":"e5eba57e01c53122",
 			"toSide":"top",
-			"toEnd":"none",
-			"color":"4"
+			"toEnd":"none"
 		},
 		{
 			"id":"07c35ab8276cde5d",
@@ -88,8 +86,7 @@
 			"fromNode":"e5eba57e01c53122",
 			"fromSide":"bottom",
 			"toNode":"440eb6fcdb3ac387",
-			"toSide":"right",
-			"color":"1"
+			"toSide":"right"
 		}
 	],
 	"metadata":{
