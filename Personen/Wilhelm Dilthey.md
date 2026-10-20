@@ -1,1 +1,1 @@
-zitat von folie 7
+"Die Natur erklären wir, das Seelenleben verstehen wir."

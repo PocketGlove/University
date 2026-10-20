@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{
+			"id":"ab67c96d764740ff",
+			"type":"text",
+			"text":"allgemeinem Gesetz",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-640,
+			"y":-140,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7640f95ecd8ae330",
+			"type":"text",
+			"text":"+ ",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-60,
+			"width":340,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"dcccc6ebce1cab5c"
+	}
+}
