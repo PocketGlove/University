@@ -11,10 +11,14 @@
             "id": "52403416546434c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "2. Zentraler Orientierungsrahmen in den Sozialwissenschaften"
             }
           }
         ]
@@ -216,6 +220,7 @@
   },
   "active": "52403416546434c4",
   "lastOpenFiles": [
+    "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
     "Konzepte/Deduktion.canvas",
     "Konzepte/Deduktion im Forschungsprozess.canvas",
     "Konzepte/Das deduktiv-nomologische Erklärungsmodell.canvas",
@@ -233,7 +238,6 @@
     "Konzepte/Erklären.md",
     "Unbenannt.base",
     "Konzepte/Verstehen.md",
-    "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
     "Das Deduktiv-nomologh.md",
     "Personen/Johann Gustav Droysen.md",
     "Personen/Wilhelm Dilthey.md",
