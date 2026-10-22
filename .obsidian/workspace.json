@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
-                "mode": "preview",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/3. Soziographie- Abbildung sozialer Phänomene.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Zentraler Orientierungsrahmen in den Sozialwissenschaften"
+              "title": "3. Soziographie- Abbildung sozialer Phänomene"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.58984375,
-    "collapsed": true
+    "width": 427.58984375
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -220,11 +219,11 @@
   },
   "active": "52403416546434c4",
   "lastOpenFiles": [
+    "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
     "Konzepte/Deduktion.canvas",
     "Konzepte/Deduktion im Forschungsprozess.canvas",
     "Konzepte/Das deduktiv-nomologische Erklärungsmodell.canvas",
-    "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
     "Konzepte/Induktiv.md",
     "Konzepte/Theorie-Empirie-Zirkel.canvas",
     "Konzepte/Das Induktionsproblem.md",
