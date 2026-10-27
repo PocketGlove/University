@@ -29,9 +29,9 @@
               "state": {
                 "file": "Qualitative und quantitative Forschung kombinieren.canvas",
                 "viewState": {
-                  "x": 480.2738422371176,
-                  "y": 105.17756121910676,
-                  "zoom": -0.9987004672378162
+                  "x": 130,
+                  "y": 67.5,
+                  "zoom": -0.2926531725118489
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -80,8 +80,7 @@
               "title": "Soziographie"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec3b086d60b1bc66",
+  "active": "52403416546434c4",
   "lastOpenFiles": [
     "Qualitative und quantitative Forschung kombinieren.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
@@ -324,7 +323,6 @@
     "Wissenschaftstheorie und -geschichte",
     "Aktuelle gesellschaftliche Themen und Fragestellungen",
     "Grundlagen sozialwissenschaftlicher Methodologie",
-    "Literatur",
-    "Untitled.canvas"
+    "Literatur"
   ]
 }
