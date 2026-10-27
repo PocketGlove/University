@@ -13,12 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forschungs- und Anwendungsfelder der Soziologie/1. Bevölkerung.md",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Bevölkerung"
+              "title": "2. Zentraler Orientierungsrahmen in den Sozialwissenschaften"
+            }
+          },
+          {
+            "id": "ec3b086d60b1bc66",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Qualitative und quantitative Forschung kombinieren.canvas",
+                "viewState": {
+                  "x": 480.2738422371176,
+                  "y": 105.17756121910676,
+                  "zoom": -0.9987004672378162
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Qualitative und quantitative Forschung kombinieren"
             }
           },
           {
@@ -63,7 +80,8 @@
               "title": "Soziographie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.58984375
+    "width": 427.58984375,
+    "collapsed": true
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -259,8 +278,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52403416546434c4",
+  "active": "ec3b086d60b1bc66",
   "lastOpenFiles": [
+    "Qualitative und quantitative Forschung kombinieren.canvas",
+    "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
+    "Forschungs- und Anwendungsfelder der Soziologie/1. Bevölkerung.md",
     "Einführung in der Soiziolgie/2. Die soziale Konstruktion der Wirklichkeit.md",
     "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
     "Soziographie.md",
@@ -269,7 +291,6 @@
     "Reaktive.md",
     "Non-reaktive.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/3. Soziographie- Abbildung sozialer Phänomene.md",
-    "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
     "Konzepte/Deduktion.canvas",
     "Konzepte/Deduktion im Forschungsprozess.canvas",
@@ -293,8 +314,6 @@
     "Konzepte/Quantitativ.md",
     "Konzepte/Qualitativ.md",
     "Konzepte/Die Faschismus-Skala.canvas",
-    "Konzepte/Kritische Theorie.md",
-    "Konzepte/Traditionelle Theorie.md",
     "Konzepte/Konstruktion der Wirklichkeit.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "Wissenschaftstheorie und -geschichte",

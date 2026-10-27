@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{
+			"id":"469eff8d937da4b8",
+			"type":"text",
+			"text":"[[Qualitativ]]\nExploration / Hypotheseentwicklung",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-380,
+			"y":-20,
+			"width":320,
+			"height":100,
+			"color":"6"
+		},
+		{
+			"id":"9922892d603a6b82",
+			"type":"text",
+			"text":"[[Quantitativ]]\nPrüfung von Zusammenhängen",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":40,
+			"y":-20,
+			"width":320,
+			"height":100,
+			"color":"6"
+		},
+		{
+			"id":"2386c0ae1570447a",
+			"type":"text",
+			"text":"[[Qualitativ]]\nExploration / Hypotheseentwicklung",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":320,
+			"y":55,
+			"width":320,
+			"height":100,
+			"color":"6"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
