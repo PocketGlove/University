@@ -1,6 +1,4 @@
 # [[Reaktive]]
-
-folie 22
+![[Reaktive]]
 # [[Non-reaktive]]
-
-folie 22
+![[Non-reaktive]]
