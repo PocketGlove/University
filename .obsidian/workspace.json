@@ -22,23 +22,6 @@
             }
           },
           {
-            "id": "ec3b086d60b1bc66",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Qualitative und quantitative Forschung kombinieren.canvas",
-                "viewState": {
-                  "x": 130,
-                  "y": 67.5,
-                  "zoom": -0.2926531725118489
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Qualitative und quantitative Forschung kombinieren"
-            }
-          },
-          {
             "id": "177029125bca44a8",
             "type": "leaf",
             "state": {
@@ -80,7 +63,8 @@
               "title": "Soziographie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,15 +260,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52403416546434c4",
+  "active": "177029125bca44a8",
   "lastOpenFiles": [
+    "Qualitative und quantitative Forschung kombinieren.canvas",
+    "Grundlagen sozialwissenschaftlicher Methodologie/3. Soziographie- Abbildung sozialer Phänomene.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
-    "Grundlagen sozialwissenschaftlicher Methodologie/3. Soziographie- Abbildung sozialer Phänomene.md",
     "Forschungs- und Anwendungsfelder der Soziologie/1. Bevölkerung.md",
     "Einführung in der Soiziolgie/2. Die soziale Konstruktion der Wirklichkeit.md",
     "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
-    "Qualitative und quantitative Forschung kombinieren.canvas",
     "Soziographie.md",
     "19-10-2026.md",
     "Reaktive und non-reaktive Quellen.md",
