@@ -19,3 +19,6 @@
 - Verbindung bereits vorhandener und eigens erhobener Daten
 ## Elementare Tatbestände <-> Komplexe Einheiten
 - Vom einzelnen Befund zu Mustern und Typen
+# [[Reaktive]] und [[Non-reaktive]] Quellen 
+## [[Reaktive]]
+![[Reaktive]]
