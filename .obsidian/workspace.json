@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.58984375,
-    "collapsed": true
+    "width": 427.58984375
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -236,10 +235,10 @@
   },
   "active": "1ac1c0c84c466cdc",
   "lastOpenFiles": [
-    "Konzepte/Soziographie.md",
-    "Einführung in der Soiziolgie/3. Werturteils- und Methodenstreits.md",
-    "Einführung in der Soiziolgie/2. Die soziale Konstruktion der Wirklichkeit.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/3. Soziographie- Abbildung sozialer Phänomene.md",
+    "Einführung in der Soiziolgie/3. Werturteils- und Methodenstreits.md",
+    "Konzepte/Soziographie.md",
+    "Einführung in der Soiziolgie/2. Die soziale Konstruktion der Wirklichkeit.md",
     "Konzepte/Reaktive und non-reaktive Quellen.md",
     "Konzepte/Non-reaktive.md",
     "Konzepte/Reaktive.md",
