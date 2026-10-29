@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.58984375
+    "width": 427.58984375,
+    "collapsed": true
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -260,19 +261,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "177029125bca44a8",
+  "active": "d25a71b756f94cc7",
   "lastOpenFiles": [
-    "Qualitative und quantitative Forschung kombinieren.canvas",
+    "Sebald Rudolf Steinmetz.md",
+    "Soziographie.md",
+    "Ferdinand Tönnies.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/3. Soziographie- Abbildung sozialer Phänomene.md",
+    "Reaktive.md",
+    "Qualitative und quantitative Forschung kombinieren.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
     "Forschungs- und Anwendungsfelder der Soziologie/1. Bevölkerung.md",
     "Einführung in der Soiziolgie/2. Die soziale Konstruktion der Wirklichkeit.md",
     "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
-    "Soziographie.md",
     "19-10-2026.md",
     "Reaktive und non-reaktive Quellen.md",
-    "Reaktive.md",
     "Non-reaktive.md",
     "Konzepte/Deduktion.canvas",
     "Konzepte/Deduktion im Forschungsprozess.canvas",
@@ -294,7 +297,6 @@
     "Personen/Johann Gustav Droysen.md",
     "Personen/Wilhelm Dilthey.md",
     "Konzepte/Quantitativ.md",
-    "Konzepte/Qualitativ.md",
     "Konzepte/Die Faschismus-Skala.canvas",
     "Konzepte/Konstruktion der Wirklichkeit.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie",
