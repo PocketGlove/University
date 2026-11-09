@@ -80,8 +80,7 @@
               "title": "Thomas Theorem"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dialektische Dreierbewegung.md",
+                "file": "Einführung in der Soiziolgie/4. Die soziale Konstruktion der Wirklichkeit II.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialektische Dreierbewegung.md",
+                "file": "Einführung in der Soiziolgie/4. Die soziale Konstruktion der Wirklichkeit II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -232,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dialektische Dreierbewegung.md"
+                "file": "Einführung in der Soiziolgie/4. Die soziale Konstruktion der Wirklichkeit II.md"
               },
               "icon": "lucide-info",
               "title": "Dateieigenschaften"
@@ -283,10 +282,10 @@
       "translate:Open translation view": false
     }
   },
-  "active": "15971f9b39cddaf4",
+  "active": "16d89d480fc75d8f",
   "lastOpenFiles": [
-    "Einführung in der Soiziolgie/4. Die soziale Konstruktion der Wirklichkeit II.md",
     "Dialektische Dreierbewegung.md",
+    "Einführung in der Soiziolgie/4. Die soziale Konstruktion der Wirklichkeit II.md",
     "Dialektische Dreierbewegung.canvas",
     "Typisierung.md",
     "Thomas Theorem.md",
