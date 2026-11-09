@@ -11,4 +11,4 @@
 - hohe Präzision
 - Transparenz 
 - Kausalität
-- Replizierbarkeit nach naturwissenschaftlichem Vorbild 
+- Replizierbarkeit nach naturwissenschaftlichem Vorbild

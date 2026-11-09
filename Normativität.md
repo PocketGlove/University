@@ -1,0 +1,1 @@
+Wissenschaft ist selbst Teil der Gesellschaft und kann niemals neutral sein
