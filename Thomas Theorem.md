@@ -1,0 +1,1 @@
+Wenn Menschen Situationen als real definieren, sind sie in ihren Konsequenzen real

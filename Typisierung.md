@@ -1,0 +1,1 @@
+Menschen erfassen ihre Lebenswelt über sozial vermittelte Erfahrungen 
