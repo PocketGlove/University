@@ -20,8 +20,40 @@
               "icon": "lucide-file",
               "title": "5. Gesellschaft & Individuum"
             }
+          },
+          {
+            "id": "b4033a00d64f5224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Die Colemansche Badewanne.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Die Colemansche Badewanne"
+            }
+          },
+          {
+            "id": "e544fb268e8baec9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Die Colemansche Badewanne.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Die Colemansche Badewanne"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,34 +255,35 @@
       "translate:Open translation view": false
     }
   },
-  "active": "16d89d480fc75d8f",
+  "active": "b4033a00d64f5224",
   "lastOpenFiles": [
+    "Die Colemansche Badewanne.canvas",
+    "Die Colemansche Badewanne.md",
+    "Einführung in der Soiziolgie/5. Gesellschaft & Individuum.md",
+    "Unbenannt.md",
     "Einführung in der Soiziolgie/4. Die soziale Konstruktion der Wirklichkeit II.md",
     "Einführung in der Soiziolgie/3. Werturteils- und Methodenstreits.md",
-    "Einführung in der Soiziolgie/5. Gesellschaft & Individuum.md",
-    "Dialektische Dreierbewegung.md",
-    "Dialektische Dreierbewegung.canvas",
-    "Typisierung.md",
-    "Thomas Theorem.md",
+    "Konzepte/Dialektische Dreierbewegung.md",
+    "Konzepte/Dialektische Dreierbewegung.canvas",
+    "Konzepte/Typisierung.md",
+    "Konzepte/Thomas Theorem.md",
     "Personen/Jane Addams.md",
     "Literatur/Hull House Maps and Papers.md",
-    "Reflexivität.md",
-    "Reflexive Soziologie.md",
-    "Kritische Soziologie.md",
-    "Normativität.md",
-    "Stefan Hirschauer.md",
-    "Monika Wohlrab-Sahr.md",
-    "Methodenpluralismus.md",
-    "Trennungsthese.md",
-    "Stephan Lessenich.md",
-    "Jürgen Habermas.md",
+    "Konzepte/Reflexivität.md",
+    "Konzepte/Reflexive Soziologie.md",
+    "Konzepte/Kritische Soziologie.md",
+    "Konzepte/Normativität.md",
+    "Personen/Stefan Hirschauer.md",
+    "Personen/Monika Wohlrab-Sahr.md",
+    "Konzepte/Methodenpluralismus.md",
+    "Konzepte/Trennungsthese.md",
+    "Personen/Stephan Lessenich.md",
+    "Personen/Jürgen Habermas.md",
     "Konzepte/Kritische Theorie.md",
     "Konzepte/Verstehen.md",
-    "Wertbeziehung.md",
-    "Werturteil.md",
-    "Karl Popper.md",
-    "Hartmut Esser.md",
-    "Thomas Hinz.md",
+    "Konzepte/Wertbeziehung.md",
+    "Konzepte/Werturteil.md",
+    "Personen/Karl Popper.md",
     "Konzepte/Induktion.canvas",
     "Konzepte/Das deduktiv-nomologische Erklärungsmodell.canvas",
     "Konzepte/Deduktion im Forschungsprozess.canvas",
@@ -260,7 +293,6 @@
     "Konzepte/Gegensatzpaare.canvas",
     "Unbenannt.base",
     "Konzepte/Die Faschismus-Skala.canvas",
-    "Konzepte/Konstruktion der Wirklichkeit.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "Wissenschaftstheorie und -geschichte",
     "Unbenannt",
