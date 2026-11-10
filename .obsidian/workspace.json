@@ -52,8 +52,7 @@
               "title": "Die Colemansche Badewanne"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,10 +255,10 @@
       "translate:Open translation view": false
     }
   },
-  "active": "b4033a00d64f5224",
+  "active": "16d89d480fc75d8f",
   "lastOpenFiles": [
-    "Literatur/Der Selbstmord (1897).md",
     "Die Colemansche Badewanne.md",
+    "Literatur/Der Selbstmord (1897).md",
     "Einführung in der Soiziolgie/5. Gesellschaft & Individuum.md",
     "Die Colemansche Badewanne.canvas",
     "Unbenannt.md",
