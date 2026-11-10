@@ -30,4 +30,15 @@
 3. "Corpus Inscriptionum"
 	-> Erzählungen, Äußerungen, Vorstellungen und sprachliches Material sammeln 
 	-> Zugang zu Denk- und Vorstellungswelten
-# [[Funktionalistischer Kulturbegriff]]
+## [[Funktionalistischer Kulturbegriff]]
+![[Funktionalistischer Kulturbegriff]]
+## Grundbedingung ethnographischer Feldforschung
+- Forschende gehen selbst ins Feld 
+- längerfristiger Aufenthalt statt kurzer Forschungsbesuche
+- Leben im bzw. in unmittelbarer Nähe zum Feld 
+- "wirklicher Kontakt" und Teilnahme am alltäglichen Leben 
+- Kenntnis der Sprache der untersuchten Menschen 
+- unmittelbare und detaillierte Beobachtung alltäglicher Situationen 
+	-> Nähe zum Feld aus Voraussetzung für ethnographisches Verstehen 
+	-> zentrale Forschungspraxis: teilnehmende Beobachtung: "Anderseits nützt es bei dieser Art von Arbeit dem Ethnographen manchmal Kamera, Notizbuch und Bleistift zur Seite zu legen und sich selbst am Geschehen zu beteiligen"
+	

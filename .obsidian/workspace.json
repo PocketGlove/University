@@ -63,8 +63,7 @@
               "title": "Sammlen"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,7 +265,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "3faa7aca713f6f84",
+  "active": "16d89d480fc75d8f",
   "lastOpenFiles": [
     "Konzepte/Ethnographie.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/4. Grundlagen ethnographischer Arbeitsweise.md",

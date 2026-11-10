@@ -2,4 +2,6 @@
 - Kultur als zusammenhängendes Ganzes
 - kulturelle Elemente sind aufeinander bezogen und erfüllen bestimmte Funktionen 
 - biologische/organismische Analogie 
-- Skelett -> Sozialstruktur (statistische )
+- Skelett -> Sozialstruktur (statistische Dokumentation)
+- Fleisch und Blut -> Alltagshandeln (Imponderabilien)
+- Geist -> Vorstellungen und kulturelles Wissen 
