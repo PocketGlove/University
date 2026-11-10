@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,10 +252,11 @@
       "translate:Open translation view": false
     }
   },
-  "active": "30a9ca3a220d9fde",
+  "active": "5888c95fa1a3b2d4",
   "lastOpenFiles": [
-    "Konzepte/Ethnographie.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/4. Grundlagen ethnographischer Arbeitsweise.md",
+    "Konzepte/Sammlen.md",
+    "Konzepte/Ethnographie.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/3. Soziographie- Abbildung sozialer Phänomene.md",
@@ -281,7 +282,6 @@
     "Konzepte/Reflexivität.md",
     "Konzepte/Reflexive Soziologie.md",
     "Konzepte/Kritische Soziologie.md",
-    "Konzepte/Normativität.md",
     "Konzepte/Induktion.canvas",
     "Konzepte/Das deduktiv-nomologische Erklärungsmodell.canvas",
     "Konzepte/Deduktion im Forschungsprozess.canvas",

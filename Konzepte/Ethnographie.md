@@ -11,10 +11,15 @@
 
 # [[Sammlen]]
 ![[Sammlen]]
-
+# Methoden 
+- Sehen ist noch nicht [[Verstehen]]: Die unmittelbare Beobachtung eines sozialen Feldes führt nicht automatisch zu Erkenntnis 
+- Beobachten allen reicht nicht aus- Entscheidend ist, wie das Wahrgenommene verstanden wird. 
+- [[Verstehen]] entsteht durch die Auseinandersetzung mit dem Wahrgenommenen: durch Fragen, Antworten und neue Fragen
+- Wahrgenommenes muss reflektiert und immer wieder neu befragt werden 
+- Ethnographisches [[Verstehen]] erfordert Nähe zum Feld und Distanz zu den eigenen Deutungen und Selbstverständlichkeiten 
 # [[Ethnographie]] als Feldforschung
-## [[Bronislaw Malinowski]]
-
-
+[[Bronislaw Malinowski]]
+- Ziel: [[Soziale Wirklichkeit]] aus der Perspektive der Beteiligten verstehen- den native's point of view erfassen 
 ## Drei Zugänge ethnographischer Feldforschung
-
+1. Organisation und Struktur des sozialen Lebens 
+	-> Regeln, Institution
