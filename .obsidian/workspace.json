@@ -22,48 +22,21 @@
             }
           },
           {
-            "id": "5888c95fa1a3b2d4",
+            "id": "13d7185cd5b81543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Konzepte/Ethnographie.md",
+                "file": "Ethnographische Feldforschung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ethnographie"
-            }
-          },
-          {
-            "id": "3faa7aca713f6f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funktionalistischer Kulturbegriff.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Funktionalistischer Kulturbegriff"
-            }
-          },
-          {
-            "id": "30a9ca3a220d9fde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Konzepte/Sammlen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sammlen"
+              "title": "Ethnographische Feldforschung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,10 +238,11 @@
       "translate:Open translation view": false
     }
   },
-  "active": "16d89d480fc75d8f",
+  "active": "13d7185cd5b81543",
   "lastOpenFiles": [
-    "Konzepte/Ethnographie.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/4. Grundlagen ethnographischer Arbeitsweise.md",
+    "Ethnographische Feldforschung.md",
+    "Konzepte/Ethnographie.md",
     "Funktionalistischer Kulturbegriff.md",
     "Konzepte/Sammlen.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
@@ -294,7 +268,6 @@
     "Personen/Jane Addams.md",
     "Literatur/Hull House Maps and Papers.md",
     "Konzepte/Reflexivität.md",
-    "Konzepte/Reflexive Soziologie.md",
     "Konzepte/Induktion.canvas",
     "Konzepte/Das deduktiv-nomologische Erklärungsmodell.canvas",
     "Konzepte/Deduktion im Forschungsprozess.canvas",

@@ -41,4 +41,3 @@
 - unmittelbare und detaillierte Beobachtung alltäglicher Situationen 
 	-> Nähe zum Feld aus Voraussetzung für ethnographisches Verstehen 
 	-> zentrale Forschungspraxis: teilnehmende Beobachtung: "Anderseits nützt es bei dieser Art von Arbeit dem Ethnographen manchmal Kamera, Notizbuch und Bleistift zur Seite zu legen und sich selbst am Geschehen zu beteiligen"
-	
