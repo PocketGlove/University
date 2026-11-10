@@ -6,7 +6,8 @@
 	 - Forschende betreten ein Feld zunächst als Außenstehende 
 	 - ihre Rolle entwickelt und verändert sich im Forschungsprozess
 	 - vom Beobachter zum akzeptierten Teilnehmer an alltäglichen Aktivitäten
-	 - zugleich 
+	 - zugleich bleibt er Forscher - er wird nicht einfach zum Gruppenmitglied 
+	 - Herausforderung: Verhältnis von Nähe und Distanz 
 3. Worauf richtet sich meine Beobachtung?
 4. Wie verhalte ich mich im Feld?
 5. Wie dokumentiere ich meine Beobachtungen?

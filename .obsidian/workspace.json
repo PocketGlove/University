@@ -35,8 +35,7 @@
               "title": "Ethnographische Feldforschung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "der selbstmord",
+                "query": "teilnehmende ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.58984375,
+    "width": 306.81640625,
     "collapsed": true
   },
   "right": {
@@ -187,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Einführung in der Soiziolgie/4. Die soziale Konstruktion der Wirklichkeit II.md"
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/4. Grundlagen ethnographischer Arbeitsweise.md"
               },
               "icon": "lucide-info",
               "title": "Dateieigenschaften"
@@ -216,14 +215,23 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "7e3f525f97a973cc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 317.4217529296875,
-    "collapsed": true
+    "width": 317.4217529296875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,20 +243,24 @@
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
       "obsidian-git:Open Git source control": false,
-      "translate:Open translation view": false
+      "translate:Open translation view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13d7185cd5b81543",
+  "active": "7e3f525f97a973cc",
   "lastOpenFiles": [
+    "Konzepte/Reaktive.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/4. Grundlagen ethnographischer Arbeitsweise.md",
+    "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
     "Ethnographische Feldforschung.md",
+    "Unbenannt.base",
+    "Forschungs- und Anwendungsfelder der Soziologie/1. Bevölkerung.md",
+    "Unbenannt.md",
     "Konzepte/Ethnographie.md",
     "Funktionalistischer Kulturbegriff.md",
     "Konzepte/Sammlen.md",
-    "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/3. Soziographie- Abbildung sozialer Phänomene.md",
-    "Forschungs- und Anwendungsfelder der Soziologie/1. Bevölkerung.md",
     "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
     "Einführung in der Soiziolgie/2. Die soziale Konstruktion der Wirklichkeit.md",
     "Einführung in der Soiziolgie/3. Werturteils- und Methodenstreits.md",
@@ -260,14 +272,11 @@
     "Konzepte/Soziale Wirklichkeit.md",
     "Literatur/Der Selbstmord (1897).md",
     "Die Colemansche Badewanne.canvas",
-    "Unbenannt.md",
     "Konzepte/Dialektische Dreierbewegung.md",
     "Konzepte/Dialektische Dreierbewegung.canvas",
     "Konzepte/Typisierung.md",
     "Konzepte/Thomas Theorem.md",
     "Personen/Jane Addams.md",
-    "Literatur/Hull House Maps and Papers.md",
-    "Konzepte/Reflexivität.md",
     "Konzepte/Induktion.canvas",
     "Konzepte/Das deduktiv-nomologische Erklärungsmodell.canvas",
     "Konzepte/Deduktion im Forschungsprozess.canvas",
@@ -275,7 +284,6 @@
     "Konzepte/Deduktion.canvas",
     "Konzepte/Theorie-Empirie-Zirkel.canvas",
     "Konzepte/Gegensatzpaare.canvas",
-    "Unbenannt.base",
     "Konzepte/Die Faschismus-Skala.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "Wissenschaftstheorie und -geschichte",
