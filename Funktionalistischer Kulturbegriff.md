@@ -1,0 +1,5 @@
+- [[Bronislaw Malinowski]]
+- Kultur als zusammenhängendes Ganzes
+- kulturelle Elemente sind aufeinander bezogen und erfüllen bestimmte Funktionen 
+- biologische/organismische Analogie 
+- Skelett -> Sozialstruktur (statistische )

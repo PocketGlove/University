@@ -22,4 +22,12 @@
 - Ziel: [[Soziale Wirklichkeit]] aus der Perspektive der Beteiligten verstehen- den native's point of view erfassen 
 ## Drei Zugänge ethnographischer Feldforschung
 1. Organisation und Struktur des sozialen Lebens 
-	-> Regeln, Institution
+	-> Regeln, Institutionen und Strukturen erfassen
+	-> konkrete und statistische Dokumentation 
+2. "Imponderabilien des wirklichen Lebens"
+	 -> Alltag, Praktiken und konkretes Verhalten erfassen 
+	 -> minuziöse, detaillierte Beobachtung 
+3. "Corpus Inscriptionum"
+	-> Erzählungen, Äußerungen, Vorstellungen und sprachliches Material sammeln 
+	-> Zugang zu Denk- und Vorstellungswelten
+# [[Funktionalistischer Kulturbegriff]]
