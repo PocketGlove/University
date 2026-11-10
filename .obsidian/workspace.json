@@ -13,57 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Einführung in der Soiziolgie/5. Gesellschaft & Individuum.md",
-                "mode": "source",
+                "file": "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Gesellschaft & Individuum"
-            }
-          },
-          {
-            "id": "b4033a00d64f5224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Die Colemansche Badewanne.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Die Colemansche Badewanne"
-            }
-          },
-          {
-            "id": "e544fb268e8baec9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Die Colemansche Badewanne.canvas",
-                "viewState": {
-                  "x": 68.52252448927487,
-                  "y": -127.33484747056758,
-                  "zoom": -0.3823043143513891
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Die Colemansche Badewanne"
-            }
-          },
-          {
-            "id": "d76a8aaeee4154fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Einführung in der Soiziolgie/4. Die soziale Konstruktion der Wirklichkeit II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Die soziale Konstruktion der Wirklichkeit II"
+              "title": "1. Was zeichnet Sozialwissenschaften aus"
             }
           }
         ]
@@ -128,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.58984375,
-    "collapsed": true
+    "width": 427.58984375
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -270,14 +224,19 @@
   },
   "active": "16d89d480fc75d8f",
   "lastOpenFiles": [
+    "Forschungs- und Anwendungsfelder der Soziologie/1. Bevölkerung.md",
+    "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
+    "Einführung in der Soiziolgie/2. Die soziale Konstruktion der Wirklichkeit.md",
+    "Einführung in der Soiziolgie/3. Werturteils- und Methodenstreits.md",
     "Einführung in der Soiziolgie/4. Die soziale Konstruktion der Wirklichkeit II.md",
-    "Konzepte/Soziale Wirklichkeit.md",
     "Einführung in der Soiziolgie/5. Gesellschaft & Individuum.md",
+    "Innere Konversation.md",
+    "Strukturierungsthese.md",
     "Die Colemansche Badewanne.md",
+    "Konzepte/Soziale Wirklichkeit.md",
     "Literatur/Der Selbstmord (1897).md",
     "Die Colemansche Badewanne.canvas",
     "Unbenannt.md",
-    "Einführung in der Soiziolgie/3. Werturteils- und Methodenstreits.md",
     "Konzepte/Dialektische Dreierbewegung.md",
     "Konzepte/Dialektische Dreierbewegung.canvas",
     "Konzepte/Typisierung.md",
@@ -293,11 +252,6 @@
     "Konzepte/Methodenpluralismus.md",
     "Konzepte/Trennungsthese.md",
     "Personen/Stephan Lessenich.md",
-    "Personen/Jürgen Habermas.md",
-    "Konzepte/Kritische Theorie.md",
-    "Konzepte/Verstehen.md",
-    "Konzepte/Wertbeziehung.md",
-    "Konzepte/Werturteil.md",
     "Konzepte/Induktion.canvas",
     "Konzepte/Das deduktiv-nomologische Erklärungsmodell.canvas",
     "Konzepte/Deduktion im Forschungsprozess.canvas",
