@@ -1,0 +1,3 @@
+- Ausgehend von natürlichen Rechten argumentierte er für die Übertragung aller Gewalt auf einen souveränen Herrscher
+- Dies ist für ihn der einzige Weg, den „Krieg aller gegen alle“ zu verhindern
+- In einem Gesellschaftsvertrag übertragen die Bürger ihre natürlichen Rechte auf eine Person, den absoluten Herrscher -> Der Körper von Leviathan besteht aus den Menschen, die diesem Vertrag zugestimmt haben (_„Keine Macht ist ihm auf Erden gleich“_)
