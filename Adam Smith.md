@@ -1,0 +1,3 @@
+- Schreibt über das Gewerbe des Nadlers: „Geschäft, aus dem die Teilung der Arbeit ein eigenes Gewerbe gemacht hat“, „verwendeten Maschinen, zu deren Erfindung wahrscheinlich erst die Teilung der Arbeit Veranlassung gegeben hat
+- Ein ungelernter Arbeiter könnte vielleicht kaum eine, gewiss keine 20 Nadeln am Tag machen; im arbeitsteilig organisierten Betrieb ist das Gewerbe in ca. 18 verschiedene Tätigkeiten geteilt (Draht ziehen, strecken, schneiden, zuspitzen, schleifen...)
+- „...was in einem rohen Gesellschaftszustande das Werk eines einzigen Menschen ist, pflegt in einem vorgeschrittenen dasjenige Mehrerer zu sein.“
