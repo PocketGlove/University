@@ -1,0 +1,2 @@
+- Als früher Denker der Aufklärung geht insbesondere Locke von der Notwendigkeit der Trennung von Religion und Staat und von bestimmten „Naturrechten“ (Leben, Freiheit, Würde, Eigentum) der Bürger gegenüber dem Staat aus (Reflexion wer als Bürger zählt
+- Durch die Annahme von Naturrechten wird es möglich, zwischen „legitimen“ und „illegitimen“ Formen der Regierung zu unterscheiden
