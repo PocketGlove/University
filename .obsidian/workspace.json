@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "der selbstmor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,12 +135,12 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 306.81640625,
-    "collapsed": true
+    "width": 306.81640625
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -292,18 +292,18 @@
   },
   "active": "5d3a27ef8ed1e494",
   "lastOpenFiles": [
+    "Personen/Emile Durkheim.md",
     "Adam Smith.md",
-    "Thomas Hobbes.md",
+    "Literatur/Der Selbstmord (1897).md",
     "Wissenschaftstheorie und -geschichte/1. Entstehungs- und Entwicklungsgeschichten.md",
+    "Thomas Hobbes.md",
     "Jean-Jacques Rousseau.md",
     "John Locke.md",
     "Wissenschaftstheorie und -geschichte/2. Wie funktioniert die Gesellschaft.md",
-    "Personen/Emile Durkheim.md",
     "Personen/Bronislaw Malinowski.md",
     "Personen/August Comte.md",
     "Literatur/The Philadelphia Negro.md",
     "Literatur/Hull House Maps and Papers.md",
-    "Literatur/Der Selbstmord (1897).md",
     "Grundlagen sozialwissenschaftlicher Methodologie/4. Grundlagen ethnographischer Arbeitsweise.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/3. Soziographie- Abbildung sozialer Phänomene.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
