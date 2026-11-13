@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "432913ba94de08cd",
+            "id": "cbeb61f916c08842",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Wissenschaftstheorie und -geschichte/1. Entstehungs- und Entwicklungsgeschichten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Entstehungs- und Entwicklungsgeschichten"
             }
           }
         ]
@@ -79,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.81640625,
-    "collapsed": true
+    "width": 306.81640625
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -96,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wissenschaftstheorie und -geschichte/1. Entstehungs- und Entwicklungsgeschichten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,28 +233,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "432913ba94de08cd",
+  "active": "cbeb61f916c08842",
   "lastOpenFiles": [
-    "Gouvernementalität.md",
-    "Michel Foucault.md",
-    "Pierre Bourdieu.md",
-    "Henri de Saint-Simon.md",
+    "Konzepte/Gouvernementalität.md",
+    "Personen/Michel Foucault.md",
+    "Personen/Pierre Bourdieu.md",
+    "Personen/Henri de Saint-Simon.md",
     "Personen/August Comte.md",
     "Wissenschaftstheorie und -geschichte/1. Entstehungs- und Entwicklungsgeschichten.md",
     "Personen/Emile Durkheim.md",
-    "Adolphe Quételet.md",
+    "Personen/Adolphe Quételet.md",
     "Einführung in der Soiziolgie/6. Macht und Herrschaft.md",
     "Unbenannt.canvas",
     "Unbenannt.md",
-    "Disziplinar-Macht.md",
+    "Konzepte/Disziplinar-Macht.md",
     "Personen/Max Weber.md",
-    "Herrschaft.md",
-    "Macht.md",
+    "Konzepte/Herrschaft.md",
+    "Konzepte/Macht.md",
     "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
     "Einführung in der Soiziolgie/5. Gesellschaft & Individuum.md",
-    "Charismatische Herrschaft.md",
-    "Traditionale Herrschaft.md",
-    "Legale Herrschaft.md",
+    "Konzepte/Charismatische Herrschaft.md",
+    "Konzepte/Traditionale Herrschaft.md",
+    "Konzepte/Legale Herrschaft.md",
     "Einführung in der Soiziolgie/2. Die soziale Konstruktion der Wirklichkeit.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/1. Was zeichnet Sozialwissenschaften aus.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/2. Zentraler Orientierungsrahmen in den Sozialwissenschaften.md",
