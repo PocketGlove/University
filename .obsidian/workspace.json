@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.81640625,
-    "collapsed": true
+    "width": 306.81640625
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pierre Bourdieu.md",
+                "file": "Michel Foucault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,10 +276,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53693d3d96f7aa38",
+  "active": "f4f150146559c09e",
   "lastOpenFiles": [
-    "Einführung in der Soiziolgie/6. Macht und Herrschaft.md",
+    "Unbenannt.canvas",
+    "Unbenannt.md",
     "Pierre Bourdieu.md",
+    "Einführung in der Soiziolgie/6. Macht und Herrschaft.md",
     "Michel Foucault.md",
     "Gouvernementalität.md",
     "Disziplinar-Macht.md",
@@ -303,8 +304,6 @@
     "Personen/Emile Durkheim.md",
     "Personen/Adam Smith.md",
     "Literatur/Der Selbstmord (1897).md",
-    "Personen/Thomas Hobbes.md",
-    "Personen/Jean-Jacques Rousseau.md",
     "Unbenannt.base",
     "Konzepte/Die Colemansche Badewanne.canvas",
     "Konzepte/Dialektische Dreierbewegung.canvas",
@@ -315,7 +314,6 @@
     "Konzepte/Deduktion.canvas",
     "Konzepte/Theorie-Empirie-Zirkel.canvas",
     "Konzepte/Gegensatzpaare.canvas",
-    "Konzepte/Die Faschismus-Skala.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "Wissenschaftstheorie und -geschichte",
     "Unbenannt",

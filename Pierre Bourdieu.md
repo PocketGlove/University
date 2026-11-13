@@ -1,1 +1,5 @@
-- Entwurf einer 
+- Entwurf einer Theorie der Praxis, Die verborgenen Mechanismen der [[Macht]]
+- Soziologie um "verbogene [[Macht]]" zu enthüllen, die von Strukturen ausgeht, wie bei Foucault scheinbar diffus, unsichtbar, von allen immer wieder reproduziert
+- Soziale Ungleichheit: Menschen sind unterschiedlich im "sozialen Raum" positioniert -> unterschiedliche Möglichkeiten der Machtausübung
+- Doxa: Wir glauben an die "Spielregeln" & stellen die ungleiche Verteilung von Macht daher oft nicht infrage -> Komplizenschaft mit der [[Macht]]
+- 
