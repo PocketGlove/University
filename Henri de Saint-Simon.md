@@ -1,0 +1,3 @@
+- Begriff „Sozialwissenschaft“ stark durch französische Autoren nach der Revolution, den Napoleonischen Kriegen und der Restauration geprägt
+- Zentrale Idee eines neuen Gesellschaftstyps: die Industriegesellschaft
+- Notwendigkeit, das Soziale in dieser neuen Gesellschaft mit Hilfe wissenschaftlicher Erkenntnis neu zu ordnen

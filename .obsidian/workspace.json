@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "70222cf4a8513968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personen/August Comte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "August Comte"
+            }
+          },
+          {
+            "id": "e467bd7cf56aee14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Henri de Saint-Simon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Henri de Saint-Simon"
+            }
+          },
+          {
             "id": "53693d3d96f7aa38",
             "type": "leaf",
             "state": {
@@ -63,7 +91,8 @@
               "title": "Gouvernementalität"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wissenschaftstheorie und -geschichte/1. Entstehungs- und Entwicklungsgeschichten.md",
+                "file": "Personen/August Comte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,12 +305,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d3a27ef8ed1e494",
+  "active": "70222cf4a8513968",
   "lastOpenFiles": [
-    "Einführung in der Soiziolgie/6. Macht und Herrschaft.md",
+    "Wissenschaftstheorie und -geschichte/1. Entstehungs- und Entwicklungsgeschichten.md",
+    "Henri de Saint-Simon.md",
+    "Adolphe Quételet.md",
     "Pierre Bourdieu.md",
     "Gouvernementalität.md",
     "Michel Foucault.md",
+    "Einführung in der Soiziolgie/6. Macht und Herrschaft.md",
     "Unbenannt.canvas",
     "Unbenannt.md",
     "Disziplinar-Macht.md",
@@ -289,7 +321,6 @@
     "Herrschaft.md",
     "Macht.md",
     "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
-    "Wissenschaftstheorie und -geschichte/1. Entstehungs- und Entwicklungsgeschichten.md",
     "Einführung in der Soiziolgie/5. Gesellschaft & Individuum.md",
     "Charismatische Herrschaft.md",
     "Traditionale Herrschaft.md",
@@ -303,7 +334,6 @@
     "Personen/Karl Marx.md",
     "Personen/Emile Durkheim.md",
     "Personen/Adam Smith.md",
-    "Literatur/Der Selbstmord (1897).md",
     "Unbenannt.base",
     "Konzepte/Die Colemansche Badewanne.canvas",
     "Konzepte/Dialektische Dreierbewegung.canvas",
