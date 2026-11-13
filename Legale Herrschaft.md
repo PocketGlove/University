@@ -1,0 +1,1 @@
+Die Person bevorzugt die Regeln zu folgen, statt die Konsequenzen zu ziehen

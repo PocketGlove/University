@@ -1,0 +1,1 @@
+Jemander der Macht hat, wegen seiner Persönlichkeit.
