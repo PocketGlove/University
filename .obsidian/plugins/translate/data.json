@@ -76,7 +76,8 @@
     },
     "google_translate": {
       "selected_languages": [
-        "de"
+        "de",
+        "en"
       ],
       "api_key": "",
       "auto_translate": false,
