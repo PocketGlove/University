@@ -1,4 +1,4 @@
 - auf Kollektive (z.B Bevölkerung) gerichtet 
 - über Technologien des Selbst 
 - von innen ausgeübt, "freiwillig" (z.B Selbstdisziplinierung, Eigenverantwortung, Selbstoptimierung) 
-- "Normalitätsrichter:innen"
+- "Normalitätsrichter:innen" sind wir alle - wir steuern uns selbst, z.B nach ökonomischer Rationalität

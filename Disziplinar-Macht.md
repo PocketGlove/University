@@ -1,4 +1,4 @@
 - auf die Körper von Individuen gerichtet 
 - über Zwang, Disziplinierung, Normierung 
 - von außen ausgeübt, aber (oft) ohne (sichtbare) Gewalt
-- "Normalitätsrichter": z.B. Ärzt:innen, Sozialarbeiter:innen
+- "Normalitätsrichter:innen": z.B. Ärzt:innen, Sozialarbeiter:innen
