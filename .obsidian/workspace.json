@@ -4,91 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4a2e77e8f10d70eb",
+        "id": "21c26826870cb90a",
         "type": "tabs",
         "children": [
           {
-            "id": "5d3a27ef8ed1e494",
+            "id": "432913ba94de08cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personen/Emile Durkheim.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Emile Durkheim"
-            }
-          },
-          {
-            "id": "70222cf4a8513968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personen/August Comte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "August Comte"
-            }
-          },
-          {
-            "id": "e467bd7cf56aee14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Henri de Saint-Simon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Henri de Saint-Simon"
-            }
-          },
-          {
-            "id": "53693d3d96f7aa38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pierre Bourdieu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pierre Bourdieu"
-            }
-          },
-          {
-            "id": "f4f150146559c09e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Michel Foucault.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Michel Foucault"
-            }
-          },
-          {
-            "id": "781c844a40a8683b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gouvernementalität.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gouvernementalität"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -170,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personen/Emile Durkheim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,15 +229,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d3a27ef8ed1e494",
+  "active": "432913ba94de08cd",
   "lastOpenFiles": [
-    "Wissenschaftstheorie und -geschichte/1. Entstehungs- und Entwicklungsgeschichten.md",
-    "Personen/August Comte.md",
-    "Henri de Saint-Simon.md",
-    "Adolphe Quételet.md",
-    "Pierre Bourdieu.md",
     "Gouvernementalität.md",
     "Michel Foucault.md",
+    "Pierre Bourdieu.md",
+    "Henri de Saint-Simon.md",
+    "Personen/August Comte.md",
+    "Wissenschaftstheorie und -geschichte/1. Entstehungs- und Entwicklungsgeschichten.md",
+    "Personen/Emile Durkheim.md",
+    "Adolphe Quételet.md",
     "Einführung in der Soiziolgie/6. Macht und Herrschaft.md",
     "Unbenannt.canvas",
     "Unbenannt.md",
@@ -332,7 +258,6 @@
     "Wissenschaftstheorie und -geschichte/2. Wie funktioniert die Gesellschaft.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/5. Meinungsforschung und Wahlforschung.md",
     "Personen/Karl Marx.md",
-    "Personen/Emile Durkheim.md",
     "Unbenannt.base",
     "Konzepte/Die Colemansche Badewanne.canvas",
     "Konzepte/Dialektische Dreierbewegung.canvas",
