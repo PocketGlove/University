@@ -63,8 +63,7 @@
               "title": "Gouvernementalität"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pierre Bourdieu.md",
+                "file": "Einführung in der Soiziolgie/6. Macht und Herrschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,10 +276,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53693d3d96f7aa38",
+  "active": "5d3a27ef8ed1e494",
   "lastOpenFiles": [
-    "Gouvernementalität.md",
     "Pierre Bourdieu.md",
+    "Gouvernementalität.md",
     "Michel Foucault.md",
     "Unbenannt.canvas",
     "Unbenannt.md",
