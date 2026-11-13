@@ -1,4 +1,4 @@
-- Die Gesellschaft ist mehr als die Summe ihrer Teile und sie ist eine Realität eigener Art
+- Die Gesellschaft ist mehr als die Summe ihrer Teile und sie ist eine Realität eigener Art ^c0eb3c
 ### [[Der Selbstmord (1897)]]
 ![[Der Selbstmord (1897)]]
 ###  [[Methodologischer Holismus]]

@@ -1,2 +1,3 @@
 - jede Chance, innerhalb einer sozialen Beziehung den eigenen Willen auch gegen Widerstreben durchzusetzen, gleichviel worauf diese Chance beruht 
-- Findet innerhalb einer Beziehung zwischen mindestens 2 Personen statt, ist aber nicht unbedingt gesellschaftlich strukturiert und insti
+- Findet innerhalb einer Beziehung zwischen mindestens 2 Personen statt, ist aber nicht unbedingt gesellschaftlich strukturiert und institutionalisiert
+- Soziologisch amorph: fluide, instabil und schwer zu fassen 
