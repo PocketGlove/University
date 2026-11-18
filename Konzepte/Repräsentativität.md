@@ -1,0 +1,1 @@
+Die [[Stichprobe]] ermöglicht möglichst unverzerrte Aussagen über die [[Grundgesamtheit]]

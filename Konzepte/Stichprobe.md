@@ -1,0 +1,1 @@
+Der Teil der [[Grundgesamtheit]], der für die Untersuchung ausgewählt wird

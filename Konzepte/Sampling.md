@@ -1,0 +1,1 @@
+Das Verfahren, mit dem die [[Stichprobe]] gezogen wird

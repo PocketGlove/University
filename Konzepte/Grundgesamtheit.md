@@ -1,0 +1,1 @@
+Alle Personen, über die eine Aussage gemacht werden soll
