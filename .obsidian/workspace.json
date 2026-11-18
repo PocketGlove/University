@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "5. Meinungsforschung und Wahlforschung"
             }
+          },
+          {
+            "id": "85985e9fd9d56ed5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Korrelation und Kaisalität.canvas",
+                "viewState": {
+                  "x": -24.15073285142833,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Korrelation und Kaisalität"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.81640625
+    "width": 306.81640625,
+    "collapsed": true
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -233,12 +252,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbeb61f916c08842",
+  "active": "85985e9fd9d56ed5",
   "lastOpenFiles": [
-    "Panel.md",
+    "Unbenannt.md",
+    "Korrelation und Kaisalität.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie/5. Meinungsforschung und Wahlforschung.md",
-    "Zufallsstichprobe.md",
+    "Hypothese.md",
     "Querschnitt.md",
+    "Panel.md",
+    "Zufallsstichprobe.md",
     "Trend.md",
     "Forschungs- und Anwendungsfelder der Soziologie/1. Bevölkerung.md",
     "Einführung in der Soiziolgie/6. Macht und Herrschaft.md",
@@ -256,12 +278,8 @@
     "Personen/August Comte.md",
     "Personen/Emile Durkheim.md",
     "Personen/Adolphe Quételet.md",
-    "Unbenannt.canvas",
     "Konzepte/Disziplinar-Macht.md",
     "Personen/Max Weber.md",
-    "Konzepte/Herrschaft.md",
-    "Konzepte/Macht.md",
-    "Einführung in der Soiziolgie/1. Von den Anfängen der Soziologie.md",
     "Unbenannt.base",
     "Konzepte/Die Colemansche Badewanne.canvas",
     "Konzepte/Dialektische Dreierbewegung.canvas",

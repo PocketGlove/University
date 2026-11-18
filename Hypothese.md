@@ -1,0 +1,1 @@
+Behauptung eines vermuteten Zusammenhangs zwischen mindestens zwei Variablen
