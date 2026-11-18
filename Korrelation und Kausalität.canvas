@@ -29,32 +29,32 @@
 			"color":"1"
 		},
 		{
-			"id":"69cad3ee4121a64d",
-			"type":"text",
-			"text":"**Je ..., desto ...**\nJe mehr entgegensetzte Einflüsse jemand erlebt, desto später \n",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":null
-			},
-			"x":-360,
-			"y":100,
-			"width":280,
-			"height":80,
-			"color":"5"
-		},
-		{
 			"id":"0ac8f79474db3bc3",
 			"type":"text",
-			"text":"**abhängige Variable**\ndas zu erklärende Merkmal\n\n",
+			"text":"**Wenn ..., dann ...**\nWenn Studierende die Vorlesung besuchen, dann schneiden sie bei der STEOP-Prüfung besser ab.",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":null
 			},
 			"x":40,
-			"y":100,
+			"y":80,
 			"width":280,
-			"height":80,
+			"height":140,
 			"color":"1"
+		},
+		{
+			"id":"69cad3ee4121a64d",
+			"type":"text",
+			"text":"**Je ..., desto ...**\nJe mehr entgegensetzte Einflüsse jemand erlebt, desto später entscheidet er sich.\n",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":-360,
+			"y":80,
+			"width":280,
+			"height":140,
+			"color":"5"
 		}
 	],
 	"edges":[

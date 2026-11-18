@@ -4,8 +4,8 @@
   "advanced-canvas",
   "canvas-mindmap",
   "canvas-send-to-back",
-  "better-embedded-canvas",
   "obsidian-dictionary-plugin",
   "translate",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "better-embedded-canvas"
 ]

@@ -1,0 +1,1 @@
+Zwei Merkmale treten gemeinsam auf
