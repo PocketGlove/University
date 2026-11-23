@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.81640625
+    "width": 306.81640625,
+    "collapsed": true
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -233,7 +234,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88082b3cfe00c00c",
+  "active": "60a302eeeef20c6d",
   "lastOpenFiles": [
     "Konzepte/Hypothese.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/6. Das Experiment als Methode in der empirischen Sozialwissenschaft.md",
