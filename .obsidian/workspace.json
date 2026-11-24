@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.81640625
+    "width": 306.81640625,
+    "collapsed": true
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -233,7 +234,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88082b3cfe00c00c",
+  "active": "41027fded3a7e394",
   "lastOpenFiles": [
     "Einführung in der Soiziolgie/6. Macht und Herrschaft.md",
     "Einführung in der Soiziolgie/7.  Ungleichheiten und Differenzen.md",
