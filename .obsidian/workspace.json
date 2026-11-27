@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Einführung in der Soiziolgie/8. Diskurse & Praktiken.md",
+                "file": "Einführung in der Soiziolgie/7.  Ungleichheiten und Differenzen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Diskurse & Praktiken"
+              "title": "7.  Ungleichheiten und Differenzen"
             }
           }
         ],
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.81640625
+    "width": 306.81640625,
+    "collapsed": true
   },
   "right": {
     "id": "b6bcf1e6f7f1d11d",
@@ -248,10 +249,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88082b3cfe00c00c",
+  "active": "c92c91a7dc04eddd",
   "lastOpenFiles": [
-    "Einführung in der Soiziolgie/7.  Ungleichheiten und Differenzen.md",
     "Einführung in der Soiziolgie/8. Diskurse & Praktiken.md",
+    "Einführung in der Soiziolgie/7.  Ungleichheiten und Differenzen.md",
     "Einführung in der Soiziolgie/6. Macht und Herrschaft.md",
     "Wissenschaftstheorie und -geschichte/1. Entstehungs- und Entwicklungsgeschichten.md",
     "Grundlagen sozialwissenschaftlicher Methodologie/6. Das Experiment als Methode in der empirischen Sozialwissenschaft.md",
