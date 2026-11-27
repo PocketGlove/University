@@ -1,38 +1,115 @@
 {
 	"nodes":[
-		{"id":"cfad8768e620a0ab","type":"group","x":-320,"y":-220,"width":900,"height":300},
+		{"id":"cfad8768e620a0ab","type":"group","x":-320,"y":-260,"width":900,"height":340},
 		{
 			"id":"3ad665cfdb2ef900",
 			"type":"text",
-			"text":"",
+			"text":"zu geschriebene Merkmale: Geschlecht, soziale/regionale Herkunft, Alter, Behinderung",
 			"styleAttributes":{},
-			"x":-320,
-			"y":80,
+			"x":-280,
+			"y":160,
 			"width":260,
-			"height":60
+			"height":120
 		},
 		{
 			"id":"eac806e7af159979",
 			"type":"text",
 			"text":"Determinanten (Input)",
-			"styleAttributes":{},
+			"styleAttributes":{
+				"textAlign":"center",
+				"border":null
+			},
 			"x":-280,
-			"y":-100,
+			"y":-160,
 			"width":260,
 			"height":60
 		},
 		{
 			"id":"1450f98ea6c7f854",
 			"type":"text",
-			"text":"Dim",
-			"styleAttributes":{},
+			"text":"Dimensionen (Output)",
+			"styleAttributes":{
+				"border":null,
+				"textAlign":"center"
+			},
 			"x":300,
-			"y":-100,
+			"y":-160,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"8be2b85594ac0ba6",
+			"type":"text",
+			"text":"Auswirkungen",
+			"styleAttributes":{
+				"textAlign":"center",
+				"border":null
+			},
+			"x":300,
+			"y":-20,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"679ee10b37476ad7",
+			"type":"text",
+			"text":"z.B. Einkommen, Vermögen, Macht, Prestige, Bildung, Wohnen, Gesundheit",
+			"styleAttributes":{},
+			"x":300,
+			"y":160,
+			"width":260,
+			"height":120
+		},
+		{
+			"id":"91e43a818723eba2",
+			"type":"text",
+			"text":"erworbene Merkmale:\nBildung, Beruf, Familienstand",
+			"styleAttributes":{},
+			"x":-280,
+			"y":320,
+			"width":260,
+			"height":120
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"c752b7952f862250",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3ad665cfdb2ef900",
+			"fromSide":"top",
+			"toNode":"eac806e7af159979",
+			"toSide":"bottom"
+		},
+		{
+			"id":"81013917263a8ef7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"eac806e7af159979",
+			"fromSide":"right",
+			"toNode":"1450f98ea6c7f854",
+			"toSide":"left",
+			"label":"Ursache (Prozess)"
+		},
+		{
+			"id":"18322c817c2d67cc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8be2b85594ac0ba6",
+			"fromSide":"bottom",
+			"toNode":"679ee10b37476ad7",
+			"toSide":"top"
+		},
+		{
+			"id":"403171ef878a65aa",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"1450f98ea6c7f854",
+			"fromSide":"bottom",
+			"toNode":"8be2b85594ac0ba6",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
