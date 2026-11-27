@@ -1,0 +1,2 @@
+- überindividuelle Unterschiede, die systematisch = regelmäßig und dauerhaft mit Vor- oder Nachteilen verbunden sind
+- Beseitigung von [[Ungleichheiten]] = nicht Gleichheit, sondern Gleichberechtigung

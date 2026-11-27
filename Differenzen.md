@@ -1,0 +1,3 @@
+- überindividuelle Unterschiede
+- "In Abgrenzung zu sozialer Ungleichheit bezeichnen wir als soziale Differenzierung gesellschaftlich verankerte (also gleichfalls überindividuelle) Unterschiede, die nicht (notwendigerweise) mit Vor- und Nachteilen und somit nicht mit Asymmetrien in den Handlungsbedingungen verbunden sind."
+- können zu [[Ungleichheiten]] werden
