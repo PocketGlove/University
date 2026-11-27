@@ -38,8 +38,7 @@
               "title": "Strukturebenen sozialer Ungleichheiten"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strukturebenen sozialer Ungleichheiten.canvas",
+                "file": "Einführung in der Soiziolgie/7.  Ungleichheiten und Differenzen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strukturebenen sozialer Ungleichheiten.canvas",
+                "file": "Einführung in der Soiziolgie/7.  Ungleichheiten und Differenzen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -253,7 +252,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0ffcb37f9fa5c20",
+  "active": "41027fded3a7e394",
   "lastOpenFiles": [
     "Strukturebenen sozialer Ungleichheiten.canvas",
     "Einführung in der Soiziolgie/7.  Ungleichheiten und Differenzen.md",
@@ -291,7 +290,6 @@
     "Konzepte/Qualitative und quantitative Forschung kombinieren.canvas",
     "Konzepte/Deduktion.canvas",
     "Konzepte/Theorie-Empirie-Zirkel.canvas",
-    "Konzepte/Gegensatzpaare.canvas",
     "Grundlagen sozialwissenschaftlicher Methodologie",
     "Wissenschaftstheorie und -geschichte",
     "Unbenannt",

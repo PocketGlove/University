@@ -1,16 +1,6 @@
 {
 	"nodes":[
-		{"id":"cfad8768e620a0ab","type":"group","x":-320,"y":-260,"width":900,"height":340},
-		{
-			"id":"3ad665cfdb2ef900",
-			"type":"text",
-			"text":"zu geschriebene Merkmale: Geschlecht, soziale/regionale Herkunft, Alter, Behinderung",
-			"styleAttributes":{},
-			"x":-280,
-			"y":160,
-			"width":260,
-			"height":120
-		},
+		{"id":"cfad8768e620a0ab","type":"group","x":-320,"y":-180,"width":900,"height":260},
 		{
 			"id":"eac806e7af159979",
 			"type":"text",
@@ -51,12 +41,12 @@
 			"height":60
 		},
 		{
-			"id":"679ee10b37476ad7",
+			"id":"3ad665cfdb2ef900",
 			"type":"text",
-			"text":"z.B. Einkommen, Vermögen, Macht, Prestige, Bildung, Wohnen, Gesundheit",
+			"text":"zu geschriebene Merkmale: Geschlecht, soziale/regionale Herkunft, Alter, Behinderung",
 			"styleAttributes":{},
-			"x":300,
-			"y":160,
+			"x":-280,
+			"y":100,
 			"width":260,
 			"height":120
 		},
@@ -66,7 +56,17 @@
 			"text":"erworbene Merkmale:\nBildung, Beruf, Familienstand",
 			"styleAttributes":{},
 			"x":-280,
-			"y":320,
+			"y":240,
+			"width":260,
+			"height":120
+		},
+		{
+			"id":"679ee10b37476ad7",
+			"type":"text",
+			"text":"z.B. Einkommen, Vermögen, Macht, Prestige, Bildung, Wohnen, Gesundheit",
+			"styleAttributes":{},
+			"x":300,
+			"y":100,
 			"width":260,
 			"height":120
 		}
