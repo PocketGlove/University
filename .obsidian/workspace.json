@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "7.  Ungleichheiten und Differenzen"
             }
+          },
+          {
+            "id": "a0ffcb37f9fa5c20",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Strukturebenen sozialer Ungleichheiten.canvas",
+                "viewState": {
+                  "x": 189.71972010006715,
+                  "y": 0,
+                  "zoom": -0.3501554542978582
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Strukturebenen sozialer Ungleichheiten"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Einführung in der Soiziolgie/7.  Ungleichheiten und Differenzen.md",
+                "file": "Strukturebenen sozialer Ungleichheiten.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Einführung in der Soiziolgie/7.  Ungleichheiten und Differenzen.md",
+                "file": "Strukturebenen sozialer Ungleichheiten.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -235,10 +253,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41027fded3a7e394",
+  "active": "a0ffcb37f9fa5c20",
   "lastOpenFiles": [
-    "Ungleichheiten.md",
+    "Strukturebenen sozialer Ungleichheiten.canvas",
     "Einführung in der Soiziolgie/7.  Ungleichheiten und Differenzen.md",
+    "Ungleichheiten.md",
     "Differenzen.md",
     "Einführung in der Soiziolgie/8. Diskurse & Praktiken.md",
     "Einführung in der Soiziolgie/6. Macht und Herrschaft.md",
@@ -263,7 +282,6 @@
     "Konzepte/Gouvernementalität.md",
     "Personen/Michel Foucault.md",
     "Personen/Pierre Bourdieu.md",
-    "Personen/Henri de Saint-Simon.md",
     "Unbenannt.base",
     "Konzepte/Die Colemansche Badewanne.canvas",
     "Konzepte/Dialektische Dreierbewegung.canvas",
