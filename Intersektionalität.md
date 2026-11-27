@@ -1,0 +1,1 @@
+[[Differenzen]] und [[Ungleichheiten]] treten nie alleine auf, sondern immer im Zusammenwirken mit anderen, z.B Alter, Geschlecht, Einkommen, körperliche Einschränkungen, soziale und ethnische Herkunft 
